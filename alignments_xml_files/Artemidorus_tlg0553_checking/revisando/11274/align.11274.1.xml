@@ -1,0 +1,697 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+  <language lnum="L1" xml:lang="grc" dir="ltr"/>
+  <language lnum="L2" xml:lang="por" dir="ltr"/>
+  <comment class="title">Artemidoro.Orange-LV.74</comment>
+  <sentence id="1" document_id="">
+    <wds lnum="L1">
+      <comment class="uri"/>
+      <w n="1-1">
+        <text>Ἔδοξέ</text>
+      </w>
+      <w n="1-2">
+        <text>τις</text>
+      </w>
+      <w n="1-3">
+        <text>μεταμορφωθεὶς</text>
+      </w>
+      <w n="1-4">
+        <text>δένδρον</text>
+      </w>
+      <w n="1-5">
+        <text>γενέσθαι</text>
+      </w>
+      <w n="1-6">
+        <text>παμμέγεθες</text>
+      </w>
+      <w n="1-7">
+        <text>δικροῦν</text>
+      </w>
+      <w n="1-8">
+        <text>,</text>
+      </w>
+      <w n="1-9">
+        <text>καὶ</text>
+      </w>
+      <w n="1-10">
+        <text>τὸ</text>
+      </w>
+      <w n="1-11">
+        <text>μὲν</text>
+      </w>
+      <w n="1-12">
+        <text>ἕτερον</text>
+      </w>
+      <w n="1-13">
+        <text>μέρος</text>
+      </w>
+      <w n="1-14">
+        <text>εἶναι</text>
+      </w>
+      <w n="1-15">
+        <text>λεύκην</text>
+      </w>
+      <w n="1-16">
+        <text>τὸ</text>
+      </w>
+      <w n="1-17">
+        <text>δὲ</text>
+      </w>
+      <w n="1-18">
+        <text>ἕτερον</text>
+      </w>
+      <w n="1-19">
+        <text>πίτυν</text>
+      </w>
+      <w n="1-20">
+        <text>·</text>
+      </w>
+      <w n="2-1">
+        <text>ἔπειτα</text>
+      </w>
+      <w n="2-2">
+        <text>τῇ</text>
+      </w>
+      <w n="2-3">
+        <text>μὲν</text>
+      </w>
+      <w n="2-4">
+        <text>λεύκῃ</text>
+      </w>
+      <w n="2-5">
+        <text>παντοδαποὺς</text>
+      </w>
+      <w n="2-6">
+        <text>ὄρνιθας</text>
+      </w>
+      <w n="2-7">
+        <text>ἐφιζάνειν</text>
+      </w>
+      <w n="2-8">
+        <text>τῇ</text>
+      </w>
+      <w n="2-9">
+        <text>δὲ</text>
+      </w>
+      <w n="2-10">
+        <text>πίτυϊ</text>
+      </w>
+      <w n="2-11">
+        <text>λάρους</text>
+      </w>
+      <w n="2-12">
+        <text>καὶ</text>
+      </w>
+      <w n="2-13">
+        <text>αἰθυίας</text>
+      </w>
+      <w n="2-14">
+        <text>καὶ</text>
+      </w>
+      <w n="2-15">
+        <text>ὅσα</text>
+      </w>
+      <w n="2-16">
+        <text>ἄλλα</text>
+      </w>
+      <w n="2-17">
+        <text>&lt;</text>
+      </w>
+      <w n="2-18">
+        <text>ἐστὶ</text>
+      </w>
+      <w n="2-19">
+        <text>&gt;</text>
+      </w>
+      <w n="2-20">
+        <text>θαλάσσια</text>
+      </w>
+      <w n="2-21">
+        <text>ὄρνεα</text>
+      </w>
+      <w n="2-22">
+        <text>.</text>
+      </w>
+      <w n="3-1">
+        <text>ἐγένοντο</text>
+      </w>
+      <w n="3-2">
+        <text>αὐτῷ</text>
+      </w>
+      <w n="3-3">
+        <text>παῖδες</text>
+      </w>
+      <w n="3-4">
+        <text>δύο</text>
+      </w>
+      <w n="3-5">
+        <text>,</text>
+      </w>
+      <w n="3-6">
+        <text>ὧν</text>
+      </w>
+      <w n="3-7">
+        <text>ὁ</text>
+      </w>
+      <w n="3-8">
+        <text>μὲν</text>
+      </w>
+      <w n="3-9">
+        <text>ἕτερος</text>
+      </w>
+      <w n="3-10">
+        <text>ἤθλησε</text>
+      </w>
+      <w n="3-11">
+        <text>διὰ</text>
+      </w>
+      <w n="3-12">
+        <text>τὴν</text>
+      </w>
+      <w n="3-13">
+        <text>λεύκην</text>
+      </w>
+      <w n="3-14">
+        <text>καὶ</text>
+      </w>
+      <w n="3-15">
+        <text>περινοστῶν</text>
+      </w>
+      <w n="3-16">
+        <text>παντοδαπῶν</text>
+      </w>
+      <w n="3-17">
+        <text>ἀνθρώπων</text>
+      </w>
+      <w n="3-18">
+        <text>καὶ</text>
+      </w>
+      <w n="3-19">
+        <text>μὴ</text>
+      </w>
+      <w n="3-20">
+        <text>ὁμοφύλων</text>
+      </w>
+      <w n="3-21">
+        <text>ἠνέσχετο</text>
+      </w>
+      <w n="3-22">
+        <text>,</text>
+      </w>
+      <w n="3-23">
+        <text>ὁ</text>
+      </w>
+      <w n="3-24">
+        <text>δὲ</text>
+      </w>
+      <w n="3-25">
+        <text>ἕτερος</text>
+      </w>
+      <w n="3-26">
+        <text>καίπερ</text>
+      </w>
+      <w n="3-27">
+        <text>ὢν</text>
+      </w>
+      <w n="3-28">
+        <text>γεωργοῦ</text>
+      </w>
+      <w n="3-29">
+        <text>παῖς</text>
+      </w>
+      <w n="3-30">
+        <text>ναύκληρος</text>
+      </w>
+      <w n="3-31">
+        <text>ἐγένετο</text>
+      </w>
+      <w n="3-32">
+        <text>καὶ</text>
+      </w>
+      <w n="3-33">
+        <text>τῶν</text>
+      </w>
+      <w n="3-34">
+        <text>οὐκ</text>
+      </w>
+      <w n="3-35">
+        <text>ἀσήμως</text>
+      </w>
+      <w n="3-36">
+        <text>πλευσάντων</text>
+      </w>
+      <w n="3-37">
+        <text>.</text>
+      </w>
+      <w n="4-1">
+        <text>αὐτὸς</text>
+      </w>
+      <w n="4-2">
+        <text>δὲ</text>
+      </w>
+      <w n="4-3">
+        <text>ὁ</text>
+      </w>
+      <w n="4-4">
+        <text>ἰδὼν</text>
+      </w>
+      <w n="4-5">
+        <text>τὸν</text>
+      </w>
+      <w n="4-6">
+        <text>ὄνειρον</text>
+      </w>
+      <w n="4-7">
+        <text>μακρογήρως</text>
+      </w>
+      <w n="4-8">
+        <text>καὶ</text>
+      </w>
+      <w n="4-9">
+        <text>λιπαρῶς</text>
+      </w>
+      <w n="4-10">
+        <text>κατεβίωσεν</text>
+      </w>
+      <w n="4-11">
+        <text>.</text>
+      </w>
+    </wds>
+    <wds lnum="L2">
+      <comment class="uri"/>
+      <w n="1-1">
+        <text>Um</text>
+      </w>
+      <w n="1-2">
+        <text>sujeito</text>
+      </w>
+      <w n="1-3">
+        <text>sonhou</text>
+      </w>
+      <w n="1-4">
+        <text>,</text>
+      </w>
+      <w n="1-5">
+        <text>tendo</text>
+      </w>
+      <w n="1-6">
+        <text>se</text>
+      </w>
+      <w n="1-7">
+        <text>transfigurado</text>
+      </w>
+      <w n="1-8">
+        <text>,</text>
+      </w>
+      <w n="1-9">
+        <text>que</text>
+      </w>
+      <w n="1-10">
+        <text>se</text>
+      </w>
+      <w n="1-11">
+        <text>tornara</text>
+      </w>
+      <w n="1-12">
+        <text>uma</text>
+      </w>
+      <w n="1-13">
+        <text>árvore</text>
+      </w>
+      <w n="1-14">
+        <text>bifurcada</text>
+      </w>
+      <w n="1-15">
+        <text>imensa</text>
+      </w>
+      <w n="1-16">
+        <text>,</text>
+      </w>
+      <w n="1-17">
+        <text>e</text>
+      </w>
+      <w n="1-18">
+        <text>uma</text>
+      </w>
+      <w n="1-19">
+        <text>das</text>
+      </w>
+      <w n="1-20">
+        <text>duas</text>
+      </w>
+      <w n="1-21">
+        <text>partes</text>
+      </w>
+      <w n="1-22">
+        <text>era</text>
+      </w>
+      <w n="1-23">
+        <text>choupo</text>
+      </w>
+      <w n="1-24">
+        <text>-</text>
+      </w>
+      <w n="1-25">
+        <text>branco</text>
+      </w>
+      <w n="1-26">
+        <text>e</text>
+      </w>
+      <w n="1-27">
+        <text>a</text>
+      </w>
+      <w n="1-28">
+        <text>outra</text>
+      </w>
+      <w n="1-29">
+        <text>era</text>
+      </w>
+      <w n="1-30">
+        <text>um</text>
+      </w>
+      <w n="1-31">
+        <text>pinheiro</text>
+      </w>
+      <w n="1-32">
+        <text>.</text>
+      </w>
+      <w n="2-1">
+        <text>Depois</text>
+      </w>
+      <w n="2-2">
+        <text>,</text>
+      </w>
+      <w n="2-3">
+        <text>que</text>
+      </w>
+      <w n="2-4">
+        <text>,</text>
+      </w>
+      <w n="2-5">
+        <text>no</text>
+      </w>
+      <w n="2-6">
+        <text>choupo</text>
+      </w>
+      <w n="2-7">
+        <text>-</text>
+      </w>
+      <w n="2-8">
+        <text>branco</text>
+      </w>
+      <w n="2-9">
+        <text>,</text>
+      </w>
+      <w n="2-10">
+        <text>de</text>
+      </w>
+      <w n="2-11">
+        <text>um</text>
+      </w>
+      <w n="2-12">
+        <text>lado</text>
+      </w>
+      <w n="2-13">
+        <text>,</text>
+      </w>
+      <w n="2-14">
+        <text>todas</text>
+      </w>
+      <w n="2-15">
+        <text>as</text>
+      </w>
+      <w n="2-16">
+        <text>espécies</text>
+      </w>
+      <w n="2-17">
+        <text>de</text>
+      </w>
+      <w n="2-18">
+        <text>pássaros</text>
+      </w>
+      <w n="2-19">
+        <text>pousavam</text>
+      </w>
+      <w n="2-20">
+        <text>,</text>
+      </w>
+      <w n="2-21">
+        <text>de</text>
+      </w>
+      <w n="2-22">
+        <text>outro</text>
+      </w>
+      <w n="2-23">
+        <text>,</text>
+      </w>
+      <w n="2-24">
+        <text>no</text>
+      </w>
+      <w n="2-25">
+        <text>pinheiro</text>
+      </w>
+      <w n="2-26">
+        <text>,</text>
+      </w>
+      <w n="2-27">
+        <text>&lt;</text>
+      </w>
+      <w n="2-28">
+        <text>havia</text>
+      </w>
+      <w n="2-29">
+        <text>&gt;</text>
+      </w>
+      <w n="2-30">
+        <text>cagarras</text>
+      </w>
+      <w n="2-31">
+        <text>,</text>
+      </w>
+      <w n="2-32">
+        <text>gaivotas</text>
+      </w>
+      <w n="2-33">
+        <text>e</text>
+      </w>
+      <w n="2-34">
+        <text>todos</text>
+      </w>
+      <w n="2-35">
+        <text>os</text>
+      </w>
+      <w n="2-36">
+        <text>outros</text>
+      </w>
+      <w n="2-37">
+        <text>pássaros</text>
+      </w>
+      <w n="2-38">
+        <text>marítimos</text>
+      </w>
+      <w n="2-39">
+        <text>.</text>
+      </w>
+      <w n="3-1">
+        <text>Ele</text>
+      </w>
+      <w n="3-2">
+        <text>teve</text>
+      </w>
+      <w n="3-3">
+        <text>dois</text>
+      </w>
+      <w n="3-4">
+        <text>filhos</text>
+      </w>
+      <w n="3-5">
+        <text>,</text>
+      </w>
+      <w n="3-6">
+        <text>dos</text>
+      </w>
+      <w n="3-7">
+        <text>quais</text>
+      </w>
+      <w n="3-8">
+        <text>um</text>
+      </w>
+      <w n="3-9">
+        <text>foi</text>
+      </w>
+      <w n="3-10">
+        <text>atleta</text>
+      </w>
+      <w n="3-11">
+        <text>,</text>
+      </w>
+      <w n="3-12">
+        <text>por</text>
+      </w>
+      <w n="3-13">
+        <text>causa</text>
+      </w>
+      <w n="3-14">
+        <text>do</text>
+      </w>
+      <w n="3-15">
+        <text>choupo</text>
+      </w>
+      <w n="3-16">
+        <text>-</text>
+      </w>
+      <w n="3-17">
+        <text>branco</text>
+      </w>
+      <w n="3-18">
+        <text>,</text>
+      </w>
+      <w n="3-19">
+        <text>e</text>
+      </w>
+      <w n="3-20">
+        <text>viajando</text>
+      </w>
+      <w n="3-21">
+        <text>,</text>
+      </w>
+      <w n="3-22">
+        <text>visitava</text>
+      </w>
+      <w n="3-23">
+        <text>todo</text>
+      </w>
+      <w n="3-24">
+        <text>tipo</text>
+      </w>
+      <w n="3-25">
+        <text>de</text>
+      </w>
+      <w n="3-26">
+        <text>homem</text>
+      </w>
+      <w n="3-27">
+        <text>,</text>
+      </w>
+      <w n="3-28">
+        <text>e</text>
+      </w>
+      <w n="3-29">
+        <text>não</text>
+      </w>
+      <w n="3-30">
+        <text>os</text>
+      </w>
+      <w n="3-31">
+        <text>da</text>
+      </w>
+      <w n="3-32">
+        <text>mesma</text>
+      </w>
+      <w n="3-33">
+        <text>estirpe</text>
+      </w>
+      <w n="3-34">
+        <text>;</text>
+      </w>
+      <w n="4-1">
+        <text>o</text>
+      </w>
+      <w n="4-2">
+        <text>outro</text>
+      </w>
+      <w n="4-3">
+        <text>,</text>
+      </w>
+      <w n="4-4">
+        <text>embora</text>
+      </w>
+      <w n="4-5">
+        <text>sendo</text>
+      </w>
+      <w n="4-6">
+        <text>filho</text>
+      </w>
+      <w n="4-7">
+        <text>de</text>
+      </w>
+      <w n="4-8">
+        <text>agricultor</text>
+      </w>
+      <w n="4-9">
+        <text>,</text>
+      </w>
+      <w n="4-10">
+        <text>tornou</text>
+      </w>
+      <w n="4-11">
+        <text>-</text>
+      </w>
+      <w n="4-12">
+        <text>se</text>
+      </w>
+      <w n="4-13">
+        <text>um</text>
+      </w>
+      <w n="4-14">
+        <text>armador</text>
+      </w>
+      <w n="4-15">
+        <text>e</text>
+      </w>
+      <w n="4-16">
+        <text>não</text>
+      </w>
+      <w n="4-17">
+        <text>sem</text>
+      </w>
+      <w n="4-18">
+        <text>destaque</text>
+      </w>
+      <w n="4-19">
+        <text>dentre</text>
+      </w>
+      <w n="4-20">
+        <text>os</text>
+      </w>
+      <w n="4-21">
+        <text>que</text>
+      </w>
+      <w n="4-22">
+        <text>navegavam</text>
+      </w>
+      <w n="4-23">
+        <text>.</text>
+      </w>
+      <w n="5-1">
+        <text>O</text>
+      </w>
+      <w n="5-2">
+        <text>próprio</text>
+      </w>
+      <w n="5-3">
+        <text>sonhador</text>
+      </w>
+      <w n="5-4">
+        <text>do</text>
+      </w>
+      <w n="5-5">
+        <text>sonho</text>
+      </w>
+      <w n="5-6">
+        <text>viveu</text>
+      </w>
+      <w n="5-7">
+        <text>longeva</text>
+      </w>
+      <w n="5-8">
+        <text>e</text>
+      </w>
+      <w n="5-9">
+        <text>confortavelmente</text>
+      </w>
+      <w n="5-10">
+        <text>.</text>
+      </w>
+    </wds>
+  </sentence>
+</aligned-text>

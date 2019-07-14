@@ -1,0 +1,256 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+  <language lnum="L1" xml:lang="grc" dir="ltr"/>
+  <language lnum="L2" xml:lang="eng" dir="ltr"/>
+  <comment class="title">Artemidoro.Orange-LV.80</comment>
+  <sentence id="1" document_id="">
+    <wds lnum="L1">
+      <comment class="uri"/>
+      <w n="1-1">
+        <text>Ἔδοξέ</text>
+        <refs nrefs="1-3"/>
+      </w>
+      <w n="1-2">
+        <text>τις</text>
+        <refs nrefs="1-1"/>
+      </w>
+      <w n="1-3">
+        <text>γυνὴ</text>
+        <refs nrefs="1-2"/>
+      </w>
+      <w n="1-4">
+        <text>τὸν</text>
+        <refs nrefs="1-5"/>
+      </w>
+      <w n="1-5">
+        <text>ἑαυτῆς</text>
+        <refs nrefs="1-6 1-7"/>
+      </w>
+      <w n="1-6">
+        <text>ἐραστὴν</text>
+        <refs nrefs="1-8"/>
+      </w>
+      <w n="1-7">
+        <text>χοιρείαν</text>
+        <refs nrefs="1-16 1-17 1-18"/>
+      </w>
+      <w n="1-8">
+        <text>αὐτῇ</text>
+        <refs nrefs="1-11"/>
+      </w>
+      <w n="1-9">
+        <text>κεφαλὴν</text>
+        <refs nrefs="1-14 1-15"/>
+      </w>
+      <w n="1-10">
+        <text>δωρεῖσθαι</text>
+        <refs nrefs="1-9 1-10 1-12 1-13"/>
+      </w>
+      <w n="1-11">
+        <text>.</text>
+        <refs nrefs="1-19"/>
+      </w>
+      <w n="2-1">
+        <text>ἐμίσησε</text>
+        <refs nrefs="2-1 2-2 2-3"/>
+      </w>
+      <w n="2-2">
+        <text>τὸν</text>
+        <refs nrefs="2-4"/>
+      </w>
+      <w n="2-3">
+        <text>ἐραστὴν</text>
+        <refs nrefs="2-5"/>
+      </w>
+      <w n="2-4">
+        <text>καὶ</text>
+        <refs nrefs="2-6"/>
+      </w>
+      <w n="2-5">
+        <text>κατέλιπεν</text>
+        <refs nrefs="2-8"/>
+      </w>
+      <w n="2-6">
+        <text>αὐτόν</text>
+        <refs nrefs="2-7"/>
+      </w>
+      <w n="2-7">
+        <text>·</text>
+        <refs nrefs="2-9"/>
+      </w>
+      <w n="3-1">
+        <text>ἀναφρόδιτος</text>
+        <refs nrefs="3-4 3-5 3-6 3-7 3-8 3-9"/>
+      </w>
+      <w n="3-2">
+        <text>γὰρ</text>
+        <refs nrefs="3-1"/>
+      </w>
+      <w n="3-3">
+        <text>ὁ</text>
+        <refs nrefs="3-2"/>
+      </w>
+      <w n="3-4">
+        <text>χοῖρος</text>
+        <refs nrefs="3-3"/>
+      </w>
+      <w n="3-5">
+        <text>.</text>
+        <refs nrefs="3-10"/>
+      </w>
+    </wds>
+    <wds lnum="L2">
+      <comment class="uri"/>
+      <w n="1-1">
+        <text>Uma</text>
+        <refs nrefs="1-2"/>
+      </w>
+      <w n="1-2">
+        <text>mulher</text>
+        <refs nrefs="1-3"/>
+      </w>
+      <w n="1-3">
+        <text>sonhou</text>
+        <refs nrefs="1-1"/>
+      </w>
+      <w n="1-4">
+        <text>que</text>
+      </w>
+      <w n="1-5">
+        <text>o</text>
+        <refs nrefs="1-4"/>
+      </w>
+      <w n="1-6">
+        <text>seu</text>
+        <refs nrefs="1-5"/>
+      </w>
+      <w n="1-7">
+        <text>próprio</text>
+        <refs nrefs="1-5"/>
+      </w>
+      <w n="1-8">
+        <text>amante</text>
+        <refs nrefs="1-6"/>
+      </w>
+      <w n="1-9">
+        <text>deu</text>
+        <refs nrefs="1-10"/>
+      </w>
+      <w n="1-10">
+        <text>-</text>
+        <refs nrefs="1-10"/>
+      </w>
+      <w n="1-11">
+        <text>lhe</text>
+        <refs nrefs="1-8"/>
+      </w>
+      <w n="1-12">
+        <text>de</text>
+        <refs nrefs="1-10"/>
+      </w>
+      <w n="1-13">
+        <text>presente</text>
+        <refs nrefs="1-10"/>
+      </w>
+      <w n="1-14">
+        <text>a</text>
+        <refs nrefs="1-9"/>
+      </w>
+      <w n="1-15">
+        <text>cabeça</text>
+        <refs nrefs="1-9"/>
+      </w>
+      <w n="1-16">
+        <text>de</text>
+        <refs nrefs="1-7"/>
+      </w>
+      <w n="1-17">
+        <text>um</text>
+        <refs nrefs="1-7"/>
+      </w>
+      <w n="1-18">
+        <text>porco</text>
+        <refs nrefs="1-7"/>
+      </w>
+      <w n="1-19">
+        <text>.</text>
+        <refs nrefs="1-11"/>
+      </w>
+      <w n="2-1">
+        <text>Ficou</text>
+        <refs nrefs="2-1"/>
+      </w>
+      <w n="2-2">
+        <text>com</text>
+        <refs nrefs="2-1"/>
+      </w>
+      <w n="2-3">
+        <text>ódio</text>
+        <refs nrefs="2-1"/>
+      </w>
+      <w n="2-4">
+        <text>do</text>
+        <refs nrefs="2-2"/>
+      </w>
+      <w n="2-5">
+        <text>amante</text>
+        <refs nrefs="2-3"/>
+      </w>
+      <w n="2-6">
+        <text>e</text>
+        <refs nrefs="2-4"/>
+      </w>
+      <w n="2-7">
+        <text>o</text>
+        <refs nrefs="2-6"/>
+      </w>
+      <w n="2-8">
+        <text>deixou</text>
+        <refs nrefs="2-5"/>
+      </w>
+      <w n="2-9">
+        <text>:</text>
+        <refs nrefs="2-7"/>
+      </w>
+      <w n="3-1">
+        <text>pois</text>
+        <refs nrefs="3-2"/>
+      </w>
+      <w n="3-2">
+        <text>o</text>
+        <refs nrefs="3-3"/>
+      </w>
+      <w n="3-3">
+        <text>porco</text>
+        <refs nrefs="3-4"/>
+      </w>
+      <w n="3-4">
+        <text>é</text>
+        <refs nrefs="3-1"/>
+      </w>
+      <w n="3-5">
+        <text>desprovido</text>
+        <refs nrefs="3-1"/>
+      </w>
+      <w n="3-6">
+        <text>dos</text>
+        <refs nrefs="3-1"/>
+      </w>
+      <w n="3-7">
+        <text>encantos</text>
+        <refs nrefs="3-1"/>
+      </w>
+      <w n="3-8">
+        <text>de</text>
+        <refs nrefs="3-1"/>
+      </w>
+      <w n="3-9">
+        <text>Afrodite</text>
+        <refs nrefs="3-1"/>
+      </w>
+      <w n="3-10">
+        <text>.</text>
+        <refs nrefs="3-5"/>
+      </w>
+    </wds>
+  </sentence>
+</aligned-text>

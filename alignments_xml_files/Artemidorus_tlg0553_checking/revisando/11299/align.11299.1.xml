@@ -1,0 +1,410 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+  <language lnum="L1" xml:lang="grc" dir="ltr"/>
+  <language lnum="L2" xml:lang="por" dir="ltr"/>
+  <comment class="title">Artemidoro.Orange-LV.95</comment>
+  <sentence id="1" document_id="">
+    <wds lnum="L1">
+      <comment class="uri"/>
+      <w n="1-1">
+        <text>Ἔδοξέ</text>
+        <refs nrefs="1-3"/>
+      </w>
+      <w n="1-2">
+        <text>τις</text>
+        <refs nrefs="1-1"/>
+      </w>
+      <w n="1-3">
+        <text>ἀθλητὴς</text>
+        <refs nrefs="1-2"/>
+      </w>
+      <w n="1-4">
+        <text>τὰ</text>
+        <refs nrefs="1-7"/>
+      </w>
+      <w n="1-5">
+        <text>αἰδοῖα</text>
+        <refs nrefs="1-8"/>
+      </w>
+      <w n="1-6">
+        <text>ἀποτεμὼν</text>
+        <refs nrefs="1-5 1-6"/>
+      </w>
+      <w n="1-7">
+        <text>καὶ</text>
+        <refs nrefs="1-9"/>
+      </w>
+      <w n="1-8">
+        <text>ἅμα</text>
+        <refs nrefs="1-11 1-12 1-13"/>
+      </w>
+      <w n="1-9">
+        <text>τὴν</text>
+        <refs nrefs="1-17"/>
+      </w>
+      <w n="1-10">
+        <text>κεφαλὴν</text>
+        <refs nrefs="1-18"/>
+      </w>
+      <w n="1-11">
+        <text>δήσας</text>
+        <refs nrefs="1-15 1-16"/>
+      </w>
+      <w n="1-12">
+        <text>ἐστεφανῶσθαι</text>
+        <refs nrefs="1-20 1-21"/>
+      </w>
+      <w n="1-13">
+        <text>.</text>
+        <refs nrefs="1-22"/>
+      </w>
+      <w n="2-1">
+        <text>ἐγένετο</text>
+        <refs nrefs="2-1 2-2 2-3"/>
+      </w>
+      <w n="2-2">
+        <text>ἱερονίκης</text>
+        <refs nrefs="2-4 2-5 2-6 2-7"/>
+      </w>
+      <w n="2-3">
+        <text>καὶ</text>
+        <refs nrefs="2-8"/>
+      </w>
+      <w n="2-4">
+        <text>οὐκ</text>
+        <refs nrefs="2-9"/>
+      </w>
+      <w n="2-5">
+        <text>ἄδοξος</text>
+        <refs nrefs="2-10 2-11"/>
+      </w>
+      <w n="2-6">
+        <text>·</text>
+        <refs nrefs="2-12"/>
+      </w>
+      <w n="3-1">
+        <text>καὶ</text>
+        <refs nrefs="3-1"/>
+      </w>
+      <w n="3-2">
+        <text>μέχρι</text>
+        <refs nrefs="3-3"/>
+      </w>
+      <w n="3-3">
+        <text>ἄφθορος</text>
+        <refs nrefs="3-5"/>
+      </w>
+      <w n="3-4">
+        <text>ἦν</text>
+        <refs nrefs="3-4"/>
+      </w>
+      <w n="3-5">
+        <text>,</text>
+        <refs nrefs="3-6"/>
+      </w>
+      <w n="3-6">
+        <text>λαμπρῶς</text>
+      </w>
+      <w n="3-7">
+        <text>καὶ</text>
+      </w>
+      <w n="3-8">
+        <text>ἐπιφανῶς</text>
+        <refs nrefs="3-12 3-13"/>
+      </w>
+      <w n="3-9">
+        <text>τῇ</text>
+        <refs nrefs="3-8"/>
+      </w>
+      <w n="3-10">
+        <text>ἀθλήσει</text>
+        <refs nrefs="3-9 3-10 3-11"/>
+      </w>
+      <w n="3-11">
+        <text>ἐχρήσατο</text>
+        <refs nrefs="3-7"/>
+      </w>
+      <w n="3-12">
+        <text>,</text>
+        <refs nrefs="3-14"/>
+      </w>
+      <w n="3-13">
+        <text>χαρισάμενος</text>
+        <refs nrefs="3-17 3-18"/>
+      </w>
+      <w n="3-14">
+        <text>δὲ</text>
+        <refs nrefs="3-15"/>
+      </w>
+      <w n="3-15">
+        <text>ἀφροδισίοις</text>
+        <refs nrefs="3-19 3-20 3-21 3-22 3-23"/>
+      </w>
+      <w n="3-16">
+        <text>ἀδόξως</text>
+        <refs nrefs="3-28 3-29 3-30"/>
+      </w>
+      <w n="3-17">
+        <text>κατέλυσεν</text>
+        <refs nrefs="3-25"/>
+      </w>
+      <w n="3-18">
+        <text>.</text>
+        <refs nrefs="3-31"/>
+      </w>
+    </wds>
+    <wds lnum="L2">
+      <comment class="uri"/>
+      <w n="1-1">
+        <text>Um</text>
+        <refs nrefs="1-2"/>
+      </w>
+      <w n="1-2">
+        <text>atleta</text>
+        <refs nrefs="1-3"/>
+      </w>
+      <w n="1-3">
+        <text>sonhou</text>
+        <refs nrefs="1-1"/>
+      </w>
+      <w n="1-4">
+        <text>que</text>
+      </w>
+      <w n="1-5">
+        <text>cortava</text>
+        <refs nrefs="1-6"/>
+      </w>
+      <w n="1-6">
+        <text>fora</text>
+        <refs nrefs="1-6"/>
+      </w>
+      <w n="1-7">
+        <text>os</text>
+        <refs nrefs="1-4"/>
+      </w>
+      <w n="1-8">
+        <text>genitais</text>
+        <refs nrefs="1-5"/>
+      </w>
+      <w n="1-9">
+        <text>e</text>
+        <refs nrefs="1-7"/>
+      </w>
+      <w n="1-10">
+        <text>,</text>
+      </w>
+      <w n="1-11">
+        <text>ao</text>
+        <refs nrefs="1-8"/>
+      </w>
+      <w n="1-12">
+        <text>mesmo</text>
+        <refs nrefs="1-8"/>
+      </w>
+      <w n="1-13">
+        <text>tempo</text>
+        <refs nrefs="1-8"/>
+      </w>
+      <w n="1-14">
+        <text>,</text>
+      </w>
+      <w n="1-15">
+        <text>tendo</text>
+        <refs nrefs="1-11"/>
+      </w>
+      <w n="1-16">
+        <text>abaixado</text>
+        <refs nrefs="1-11"/>
+      </w>
+      <w n="1-17">
+        <text>a</text>
+        <refs nrefs="1-9"/>
+      </w>
+      <w n="1-18">
+        <text>cabeça</text>
+        <refs nrefs="1-10"/>
+      </w>
+      <w n="1-19">
+        <text>,</text>
+      </w>
+      <w n="1-20">
+        <text>era</text>
+        <refs nrefs="1-12"/>
+      </w>
+      <w n="1-21">
+        <text>coroado</text>
+        <refs nrefs="1-12"/>
+      </w>
+      <w n="1-22">
+        <text>.</text>
+        <refs nrefs="1-13"/>
+      </w>
+      <w n="2-1">
+        <text>Tornou</text>
+        <refs nrefs="2-1"/>
+      </w>
+      <w n="2-2">
+        <text>-</text>
+        <refs nrefs="2-1"/>
+      </w>
+      <w n="2-3">
+        <text>se</text>
+        <refs nrefs="2-1"/>
+      </w>
+      <w n="2-4">
+        <text>vencedor</text>
+        <refs nrefs="2-2"/>
+      </w>
+      <w n="2-5">
+        <text>dos</text>
+        <refs nrefs="2-2"/>
+      </w>
+      <w n="2-6">
+        <text>jogos</text>
+        <refs nrefs="2-2"/>
+      </w>
+      <w n="2-7">
+        <text>sagrados</text>
+        <refs nrefs="2-2"/>
+      </w>
+      <w n="2-8">
+        <text>e</text>
+        <refs nrefs="2-3"/>
+      </w>
+      <w n="2-9">
+        <text>não</text>
+        <refs nrefs="2-4"/>
+      </w>
+      <w n="2-10">
+        <text>sem</text>
+        <refs nrefs="2-5"/>
+      </w>
+      <w n="2-11">
+        <text>notoriedade</text>
+        <refs nrefs="2-5"/>
+      </w>
+      <w n="2-12">
+        <text>:</text>
+        <refs nrefs="2-6"/>
+      </w>
+      <w n="3-1">
+        <text>e</text>
+        <refs nrefs="3-1"/>
+      </w>
+      <w n="3-2">
+        <text>,</text>
+      </w>
+      <w n="3-3">
+        <text>enquanto</text>
+        <refs nrefs="3-2"/>
+      </w>
+      <w n="3-4">
+        <text>estava</text>
+        <refs nrefs="3-4"/>
+      </w>
+      <w n="3-5">
+        <text>puro</text>
+        <refs nrefs="3-3"/>
+      </w>
+      <w n="3-6">
+        <text>,</text>
+        <refs nrefs="3-5"/>
+      </w>
+      <w n="3-7">
+        <text>permaneceu</text>
+        <refs nrefs="3-11"/>
+      </w>
+      <w n="3-8">
+        <text>na</text>
+        <refs nrefs="3-9"/>
+      </w>
+      <w n="3-9">
+        <text>carreira</text>
+        <refs nrefs="3-10"/>
+      </w>
+      <w n="3-10">
+        <text>de</text>
+        <refs nrefs="3-10"/>
+      </w>
+      <w n="3-11">
+        <text>atleta</text>
+        <refs nrefs="3-10"/>
+      </w>
+      <w n="3-12">
+        <text>com</text>
+        <refs nrefs="3-8"/>
+      </w>
+      <w n="3-13">
+        <text>distinção</text>
+        <refs nrefs="3-8"/>
+      </w>
+      <w n="3-14">
+        <text>,</text>
+        <refs nrefs="3-12"/>
+      </w>
+      <w n="3-15">
+        <text>mas</text>
+        <refs nrefs="3-14"/>
+      </w>
+      <w n="3-16">
+        <text>,</text>
+      </w>
+      <w n="3-17">
+        <text>tendo</text>
+        <refs nrefs="3-13"/>
+      </w>
+      <w n="3-18">
+        <text>cedido</text>
+        <refs nrefs="3-13"/>
+      </w>
+      <w n="3-19">
+        <text>aos</text>
+        <refs nrefs="3-15"/>
+      </w>
+      <w n="3-20">
+        <text>caprichos</text>
+        <refs nrefs="3-15"/>
+      </w>
+      <w n="3-21">
+        <text>dos</text>
+        <refs nrefs="3-15"/>
+      </w>
+      <w n="3-22">
+        <text>prazeres</text>
+        <refs nrefs="3-15"/>
+      </w>
+      <w n="3-23">
+        <text>sexuais</text>
+        <refs nrefs="3-15"/>
+      </w>
+      <w n="3-24">
+        <text>,</text>
+      </w>
+      <w n="3-25">
+        <text>largou</text>
+        <refs nrefs="3-17"/>
+      </w>
+      <w n="3-26">
+        <text>a</text>
+      </w>
+      <w n="3-27">
+        <text>carreira</text>
+      </w>
+      <w n="3-28">
+        <text>de</text>
+        <refs nrefs="3-16"/>
+      </w>
+      <w n="3-29">
+        <text>forma</text>
+        <refs nrefs="3-16"/>
+      </w>
+      <w n="3-30">
+        <text>inglória</text>
+        <refs nrefs="3-16"/>
+      </w>
+      <w n="3-31">
+        <text>.</text>
+        <refs nrefs="3-18"/>
+      </w>
+    </wds>
+  </sentence>
+</aligned-text>

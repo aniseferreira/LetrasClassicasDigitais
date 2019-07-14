@@ -1,0 +1,421 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+  <language lnum="L1" xml:lang="grc" dir="ltr"/>
+  <language lnum="L2" xml:lang="por" dir="ltr"/>
+  <comment class="title">Artemidoro.Orange-LV.60</comment>
+  <sentence id="1" document_id="">
+    <wds lnum="L1">
+      <comment class="uri"/>
+      <w n="1-1">
+        <text>Ἔδοξέ</text>
+        <refs nrefs="1-3"/>
+      </w>
+      <w n="1-2">
+        <text>τις</text>
+        <refs nrefs="1-1 1-2"/>
+      </w>
+      <w n="1-3">
+        <text>ὑπὸ</text>
+        <refs nrefs="1-5"/>
+      </w>
+      <w n="1-4">
+        <text>ζυγὸν</text>
+        <refs nrefs="1-6"/>
+      </w>
+      <w n="1-5">
+        <text>ἀχθεὶς</text>
+        <refs nrefs="1-7 1-6,5"/>
+      </w>
+      <w n="1-6">
+        <text>ἅμα</text>
+        <refs nrefs="1-8 1-9"/>
+      </w>
+      <w n="1-7">
+        <text>τῷ</text>
+        <refs nrefs="1-10"/>
+      </w>
+      <w n="1-8">
+        <text>ἀδελφῷ</text>
+        <refs nrefs="1-11"/>
+      </w>
+      <w n="1-9">
+        <text>πάλαι</text>
+        <refs nrefs="1-14 1-15"/>
+      </w>
+      <w n="1-10">
+        <text>τεθνεῶτι</text>
+        <refs nrefs="1-13"/>
+      </w>
+      <w n="1-11">
+        <text>ζευχθεὶς</text>
+        <refs nrefs="1-17"/>
+      </w>
+      <w n="1-12">
+        <text>ὑπὸ</text>
+        <refs nrefs="1-18"/>
+      </w>
+      <w n="1-13">
+        <text>τῆς</text>
+        <refs nrefs="1-19"/>
+      </w>
+      <w n="1-14">
+        <text>μητρὸς</text>
+        <refs nrefs="1-19"/>
+      </w>
+      <w n="1-15">
+        <text>ὥσπερ</text>
+        <refs nrefs="1-20"/>
+      </w>
+      <w n="1-16">
+        <text>τι</text>
+        <refs nrefs="1-21"/>
+      </w>
+      <w n="1-17">
+        <text>ὑποζύγιον</text>
+        <refs nrefs="1-22 1-23 1-24"/>
+      </w>
+      <w n="1-18">
+        <text>ἐλαύνεσθαι</text>
+        <refs nrefs="1-26 1-27"/>
+      </w>
+      <w n="1-19">
+        <text>τῆς</text>
+        <refs nrefs="1-28"/>
+      </w>
+      <w n="1-20">
+        <text>μητρὸς</text>
+        <refs nrefs="1-29"/>
+      </w>
+      <w n="1-21">
+        <text>ἡνιοχούσης</text>
+        <refs nrefs="1-31 1-32 1-33"/>
+      </w>
+      <w n="1-22">
+        <text>.</text>
+        <refs nrefs="1-34"/>
+      </w>
+      <w n="2-1">
+        <text>ἦλθε</text>
+        <refs nrefs="2-1"/>
+      </w>
+      <w n="2-2">
+        <text>παρὰ</text>
+        <refs nrefs="2-2"/>
+      </w>
+      <w n="2-3">
+        <text>τὴν</text>
+        <refs nrefs="2-3"/>
+      </w>
+      <w n="2-4">
+        <text>μητέρα</text>
+        <refs nrefs="2-4"/>
+      </w>
+      <w n="2-5">
+        <text>κάμνων</text>
+        <refs nrefs="2-5"/>
+      </w>
+      <w n="2-6">
+        <text>καὶ</text>
+        <refs nrefs="2-6"/>
+      </w>
+      <w n="2-7">
+        <text>ἀπέθανε</text>
+        <refs nrefs="2-7"/>
+      </w>
+      <w n="2-8">
+        <text>καὶ</text>
+      </w>
+      <w n="2-9">
+        <text>ἐτάφη</text>
+        <refs nrefs="3-1 3-2"/>
+      </w>
+      <w n="2-10">
+        <text>ὁμοῦ</text>
+        <refs nrefs="3-3 3-4 3-5"/>
+      </w>
+      <w n="2-11">
+        <text>τῷ</text>
+        <refs nrefs="3-6 3-7"/>
+      </w>
+      <w n="2-12">
+        <text>ἀδελφῷ</text>
+        <refs nrefs="3-8"/>
+      </w>
+      <w n="2-13">
+        <text>,</text>
+        <refs nrefs="3-9"/>
+      </w>
+      <w n="2-14">
+        <text>καὶ</text>
+        <refs nrefs="3-10"/>
+      </w>
+      <w n="2-15">
+        <text>ταύτην</text>
+        <refs nrefs="3-15"/>
+      </w>
+      <w n="2-16">
+        <text>τὴν</text>
+      </w>
+      <w n="2-17">
+        <text>συνωρίδα</text>
+        <refs nrefs="3-16"/>
+      </w>
+      <w n="2-18">
+        <text>ἔζευξεν</text>
+        <refs nrefs="3-14"/>
+      </w>
+      <w n="2-19">
+        <text>ἀθλίως</text>
+        <refs nrefs="3-13"/>
+      </w>
+      <w n="2-20">
+        <text>ἡ</text>
+        <refs nrefs="3-11"/>
+      </w>
+      <w n="2-21">
+        <text>μήτηρ</text>
+        <refs nrefs="3-12"/>
+      </w>
+      <w n="2-22">
+        <text>.</text>
+        <refs nrefs="3-17"/>
+      </w>
+    </wds>
+    <wds lnum="L2">
+      <comment class="uri"/>
+      <w n="1-1">
+        <text>Um</text>
+        <refs nrefs="1-2"/>
+      </w>
+      <w n="1-2">
+        <text>sujeito</text>
+        <refs nrefs="1-2"/>
+      </w>
+      <w n="1-3">
+        <text>sonhou</text>
+        <refs nrefs="1-1"/>
+      </w>
+      <w n="1-4">
+        <text>,</text>
+      </w>
+      <w n="1-5">
+        <text>pelo</text>
+        <refs nrefs="1-3"/>
+      </w>
+      <w n="1-6">
+        <text>jugo</text>
+        <refs nrefs="1-4"/>
+      </w>
+      <w n="1-6,5">
+        <text>ser</text>
+        <refs nrefs="1-5"/>
+      </w>
+      <w n="1-7">
+        <text>levado</text>
+        <refs nrefs="1-5"/>
+      </w>
+      <w n="1-8">
+        <text>junto</text>
+        <refs nrefs="1-6"/>
+      </w>
+      <w n="1-9">
+        <text>com</text>
+        <refs nrefs="1-6"/>
+      </w>
+      <w n="1-10">
+        <text>um</text>
+        <refs nrefs="1-7"/>
+      </w>
+      <w n="1-11">
+        <text>irmão</text>
+        <refs nrefs="1-8"/>
+      </w>
+      <w n="1-12">
+        <text>,</text>
+      </w>
+      <w n="1-13">
+        <text>morto</text>
+        <refs nrefs="1-10"/>
+      </w>
+      <w n="1-14">
+        <text>há</text>
+        <refs nrefs="1-9"/>
+      </w>
+      <w n="1-15">
+        <text>tempos</text>
+        <refs nrefs="1-9"/>
+      </w>
+      <w n="1-16">
+        <text>,</text>
+      </w>
+      <w n="1-17">
+        <text>emparelhado</text>
+        <refs nrefs="1-11"/>
+      </w>
+      <w n="1-18">
+        <text>pela</text>
+        <refs nrefs="1-12"/>
+      </w>
+      <w n="1-19">
+        <text>mãe</text>
+        <refs nrefs="1-13 1-14"/>
+      </w>
+      <w n="1-20">
+        <text>como</text>
+        <refs nrefs="1-15"/>
+      </w>
+      <w n="1-21">
+        <text>um</text>
+        <refs nrefs="1-16"/>
+      </w>
+      <w n="1-22">
+        <text>burro</text>
+        <refs nrefs="1-17"/>
+      </w>
+      <w n="1-23">
+        <text>de</text>
+        <refs nrefs="1-17"/>
+      </w>
+      <w n="1-24">
+        <text>carga</text>
+        <refs nrefs="1-17"/>
+      </w>
+      <w n="1-25">
+        <text>,</text>
+      </w>
+      <w n="1-26">
+        <text>ser</text>
+        <refs nrefs="1-18"/>
+      </w>
+      <w n="1-27">
+        <text>conduzido</text>
+        <refs nrefs="1-18"/>
+      </w>
+      <w n="1-28">
+        <text>pela</text>
+        <refs nrefs="1-19"/>
+      </w>
+      <w n="1-29">
+        <text>mãe</text>
+        <refs nrefs="1-20"/>
+      </w>
+      <w n="1-30">
+        <text>que</text>
+      </w>
+      <w n="1-31">
+        <text>controlava</text>
+        <refs nrefs="1-21"/>
+      </w>
+      <w n="1-32">
+        <text>as</text>
+        <refs nrefs="1-21"/>
+      </w>
+      <w n="1-33">
+        <text>rédeas</text>
+        <refs nrefs="1-21"/>
+      </w>
+      <w n="1-34">
+        <text>.</text>
+        <refs nrefs="1-22"/>
+      </w>
+      <w n="2-1">
+        <text>Chegou</text>
+        <refs nrefs="2-1"/>
+      </w>
+      <w n="2-2">
+        <text>junto</text>
+        <refs nrefs="2-2"/>
+      </w>
+      <w n="2-3">
+        <text>da</text>
+        <refs nrefs="2-3"/>
+      </w>
+      <w n="2-4">
+        <text>mãe</text>
+        <refs nrefs="2-4"/>
+      </w>
+      <w n="2-5">
+        <text>sofrendo</text>
+        <refs nrefs="2-5"/>
+      </w>
+      <w n="2-6">
+        <text>e</text>
+        <refs nrefs="2-6"/>
+      </w>
+      <w n="2-7">
+        <text>morreu</text>
+        <refs nrefs="2-7"/>
+      </w>
+      <w n="2-8">
+        <text>;</text>
+      </w>
+      <w n="3-1">
+        <text>foi</text>
+        <refs nrefs="2-9"/>
+      </w>
+      <w n="3-2">
+        <text>enterrado</text>
+        <refs nrefs="2-9"/>
+      </w>
+      <w n="3-3">
+        <text>no</text>
+        <refs nrefs="2-10"/>
+      </w>
+      <w n="3-4">
+        <text>mesmo</text>
+        <refs nrefs="2-10"/>
+      </w>
+      <w n="3-5">
+        <text>lugar</text>
+        <refs nrefs="2-10"/>
+      </w>
+      <w n="3-6">
+        <text>com</text>
+        <refs nrefs="2-11"/>
+      </w>
+      <w n="3-7">
+        <text>o</text>
+        <refs nrefs="2-11"/>
+      </w>
+      <w n="3-8">
+        <text>irmão</text>
+        <refs nrefs="2-12"/>
+      </w>
+      <w n="3-9">
+        <text>,</text>
+        <refs nrefs="2-13"/>
+      </w>
+      <w n="3-10">
+        <text>e</text>
+        <refs nrefs="2-14"/>
+      </w>
+      <w n="3-11">
+        <text>a</text>
+        <refs nrefs="2-20"/>
+      </w>
+      <w n="3-12">
+        <text>mãe</text>
+        <refs nrefs="2-21"/>
+      </w>
+      <w n="3-13">
+        <text>penosamente</text>
+        <refs nrefs="2-19"/>
+      </w>
+      <w n="3-14">
+        <text>juntou</text>
+        <refs nrefs="2-18"/>
+      </w>
+      <w n="3-15">
+        <text>esse</text>
+        <refs nrefs="2-15"/>
+      </w>
+      <w n="3-16">
+        <text>par</text>
+        <refs nrefs="2-17"/>
+      </w>
+      <w n="3-17">
+        <text>.</text>
+        <refs nrefs="2-22"/>
+      </w>
+    </wds>
+  </sentence>
+</aligned-text>

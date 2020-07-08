@@ -4,3 +4,6 @@
 
 Este projeto, desde julho de 2019, está vinculado ao Edital [*PrInt-PROPG 02/2019 – Redes de Pesquisa Internacionais financiado pela CAPES*](https://www2.unesp.br/portal#!/propg/projetos-internacionais/editais-print/abertos/),  proposta intitulada ***Línguas para aprender, incluir, inovar e preservar: explorando teorias, métodos e práticas***,  coordenado por Lília Abreu-Tardelli (IBILCE/UNESP) dentro do Tema 1, _*Sociedades Plurais*_ em cooperação enfocando o subtema _**Linguagens e Produção do Conhecimento**_.
 
+Em parceria com Christopher W. Blackwell e seus colegas do departament de clássicas da Furman University, em janeiro de 2020, textos de traduções em português foram anotados de acordo com a arquitetura CITE obtendo URNs e os textos estão prontos para alinhamento na ferramenta DUCAT e para consulta com o app CITE, que funcionam no navegador. Estão disponíveis em: https://furman-editions-in-progress.github.io/UNESP_FU/ . 
+
+Em parceria com Alpheios e Perseids Project estamos fazendo a integração dos textos antigos anotados em treebaank pela plataforma Perseids, com os recursos do Alpheios. 

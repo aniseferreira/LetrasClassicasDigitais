@@ -6,7 +6,7 @@ Este projeto, desde julho de 2019, está vinculado ao Edital [*PrInt-PROPG 02/20
 
 Em parceria com Christopher W. Blackwell e seus colegas do departament de clássicas da Furman University, em janeiro de 2020, textos de traduções em português foram anotados de acordo com a arquitetura CITE obtendo URNs e os textos estão prontos para alinhamento na ferramenta DUCAT e para consulta com o app CITE, que funcionam no navegador. Estão disponíveis em: https://furman-editions-in-progress.github.io/UNESP_FU/ . 
 
-Em parceria com Alpheios e Perseids Project estamos fazendo testes para integração dos textos antigos anotados em treebank pela plataforma Perseids, com os recursos do Alpheios em https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html. A coleção será mantida na página **https://perseids-publications.github.io/unesp-trees/**
+Em parceria com Alpheios e Perseids Project estamos fazendo testes para integração dos textos antigos anotados em treebank pela plataforma Perseids, com os recursos do Alpheios em https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html. A coleção será mantida na página https://perseids-publications.github.io/unesp-trees/
 
 Na coleção [Unesp-Trees](https://perseids-publications.github.io/unesp-trees/) dentro da coleção da Perseids-Publications será possível visualizar as várias anotações em árvore sintática de dependência da coleção dos **Projetos Abertos em Letras Clássicas Digitais**. Uma interface para exibir as árvores juntamente com as traduções em português  alinhadas ao grego está sendo preparada (2021). 
 

@@ -29,7 +29,7 @@ xiii.	Verbos como: τυγχάνω e λανθάνω, que acompanham particípios 
 
 xiv. Artigos com função de pronome demonstrativo, que não determinam palavras com função nominal, alinham-se conforme a tradução utilizada para o pronome. Ex.: ὁ δὲ οὐκ ἔφη. E ele disse que não.
 
-xv. Artigos com advérbios em grego ou com expressões preposicionais, devem ser alinhados conforme a tradução. Ex. οἱ νῦν = literalmente, “os de agora”, os indivíduos/pessoas de hoje/atualmente; os contemporâneos; τὰ νῦν, lit. as coisas de hoje/ a situação atual. τὰ κατὰ τὴν μουσικήν, lit. as coisas relativas à música/ as regras/preceitos/ensinamentos/elementos musicais (dependendo do contexto).
+xv. Artigos com advérbios em grego ou com expressões preposicionais, devem ser alinhados conforme a tradução. Ex. οἱ νῦν = literalmente, “os de agora”, os indivíduos/pessoas de hoje/atualmente; os contemporâneos; τὰ νῦν, lit. as coisas de hoje/ a situação atual. τὰ κατὰ τὴν μουσικήν, lit. as coisas relativas à música (τὰ-as coisas; κατὰ τὴν μυσικήν- relativas à música//  as regras (τὰ) /οs preceitos/ensinamentos/elementos (τὰ) musicais κατὰ τὴν μυσικήν (dependendo do contexto). 
 
 xvi. Em patronímicos, como ὁ Περικλέους, o filho de Péricles, é preciso decidir se a palavra “filho” em português se alinhará com o artigo, se se alinhará com o termo no genitivo, se a expressão inteira será alinhada: artigo + genitivo com “o filho de X”, ou se faremos o alinhamento apenas com o artigo e o genitivo deixando a palavra “filho" sem alinhar. Proponho que a expressão inteira seja alinhada.
 

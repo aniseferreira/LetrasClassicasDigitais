@@ -1,7 +1,7 @@
 CRITÉRIOS OU CONVENÇÕES DE ALINHAMENTO EM DISCUSSÃO PARA ALINHAMENTO DO GREGO ÀS TRADUÇÕES EM PORTUGUÊS
 (atualizadas até dezembro de 2021). 
 
-Obs. As decisões começaram a ser estabelecidas por mim, alunos e colaboradores para o projeto Letras Clássicas Digitais, a partir de 2015, com sua aplicação em sala de aula. Não foram inspiradas em nenhuma publicação sobre traduções paralelas em línguas modernas ou antigas. A partir de 8 de dezembro de 2021,  elas foram cotejadas com as guidelines elaboradas para o alinhamento com inglês e grego por Chiara Palladino e Farnoosh Shamsian. Muitas das decisões são semelhantes e alguma são próprias para a língua portuguesa. 
+Obs. As decisões começaram a ser estabelecidas por mim, alunos e colaboradores para o projeto Letras Clássicas Digitais, a partir de 2015, com sua aplicação em sala de aula. Não foram inspiradas em nenhuma publicação sobre traduções paralelas em línguas modernas ou antigas. A partir de 8 de dezembro de 2021,  elas foram cotejadas com as guidelines elaboradas para o alinhamento com inglês e grego por Chiara Palladino e Farnoosh Shamsian. Muitas das decisões são semelhantes e algumas são próprias para a língua portuguesa. 
 
 i. O alinhamento pode ser realizado com uma quantidade desigual de palavras em quaisquer das duas línguas alinhadas. A ferramenta permite que anotador tome a decisão de quais palavras alinhar.Porém, a **correspondência de 1 para 1** é preferível exceto nos critérios especificados abaixo e no critério geral de indivisibilidade de sentido formado por mais de uma palavra, seja na língua alvo, seja na língua fonte. Os sinais de pontuação não são alinhados. 
 

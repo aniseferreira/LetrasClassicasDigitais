@@ -1,25 +1,25 @@
 CRITÉRIOS OU CONVENÇÕES DE ALINHAMENTO EM DISCUSSÃO PARA ALINHAMENTO DO GREGO ÀS TRADUÇÕES EM PORTUGUÊS
 (atualizadas até janeiro de 2019)
 
-i. O alinhamento pode ser realizado com uma quantidade desigual de palavras em quaisquer das duas línguas alinhadas. A ferramenta permite que anotador tome a decisão de quais palavras alinhar.
+i. O alinhamento pode ser realizado com uma quantidade desigual de palavras em quaisquer das duas línguas alinhadas. A ferramenta permite que anotador tome a decisão de quais palavras alinhar.Porém, a **correspondência de 1 para 1** é preferível exceto nos critérios especificados abaixo e no critério geral de indivisibilidade de sentido formado por mais de uma palavra, seja na língua alvo, seja na língua fonte.
 
 ii. Partículas redundantes ou enfáticas gregas sem tradução em português não são alinhadas com nenhuma palavra em português, nem associada a outra em grego. Ex.: γε, δέ, etc
 
-iii. As preposições em contração com artigo, em português, são alinhadas conjuntamente às preposições e seus artigos no grego: ex. eἰς τὴν - > à
+iii. As preposições em contração com artigo, em português, são alinhadas conjuntamente às preposições e os artigos que não se contraem no grego: ex. eἰς τὴν - > à ; ἐν τῷ - > no; e assim por diante.
 
-iv. O dativo de posse grego com o verbo ser tem de ser alinhado com o verbo “ter”, quando usado na tradução em português.
+**iv. O dativo de posse grego com o verbo ser tem de ser alinhado com o verbo “ter”, quando usado na tradução em português. Alterado para alinhamento frasal**, ex.: ἔστιν αὐτοῖς se traduzudo por *eles têm*; mas se traduzido como *há para eles* o alinhamento pode ser 1 para 1. 
 
-v. Os verbos gregos traduzidos como verbos pronominais com “se" em português ficariam alinhados com o pronome, em português. Ex. προφασίζετο, escusava-se.
+v. Os verbos gregos traduzidos como verbos pronominais com “se" em português ficariam alinhados com o pronome, em português. Ex. προφασίζετο, *escusava-se*, no caso de mesóclise, ou *se escusava*, no caso de próclise.
 
-vi. Ausência de artigo em grego e tradução por indefinido em português, o indefinido em português é alinhado juntamente com seu substantivo. Ex. βότρυς = um cacho de uva
+vi. Ausência de artigo em grego e presença, na tradução de um artigo indefinido em português:  o indefinido em português é alinhado juntamente com seu substantivo, se o sentido de indefinição (um qualquer) estiver marcado. Ex. **∅ βότρυς = *um cacho de uva***
 
-vii. Particípio aoristo no grego, traduzido em português pelo tempo composto com verbo ter ou com conjunção, faz-se o alinhamento juntamente com o verbo auxiliar ou com a conjunção. Ex. ἐλθών pode alinhar-se com 'tendo ido' ou 'quando foi’. Vale o mesmo princípio para outros particípios em orações circunstanciais ou adjetivas.
+vii. Particípio aoristo no grego, traduzido em português pelo tempo composto com verbo ter ou com conjunção subordinada, faz-se o alinhamento juntamente com o verbo auxiliar ou com a conjunção. Ex. **ἐλθών** pode alinhar-se com *'tendo ido'* ou *'quando foi’*. Vale o mesmo princípio para outros particípios em orações circunstanciais ou adjetivas acompanhadas com pronome relativo.
 
-viii. Partícula ἄν vai ser alinhada junto com o verbo grego e o verbo no tempo correspondente em português, exceto em casos em que significar ἐὰν (neste caso, alinha-se com a conjunção “se" em português)
+viii. Partícula **ἄν** vai ser alinhada junto com o verbo grego e, o verbo, no tempo correspondente em português, exceto em casos em que significar **ἐὰν** (neste caso, alinha-se com a conjunção condicional *“se"* em português)
 
-ix. ὅταν, ἐὰν, etc: as contrações de conjunção e partícula ἄν típicos do eventual grego vão alinhar-se normalmente com a conjunção usada em português, mesmo que em forma de locução conjuntiva: quando quer que, ou sempre que, etc.
+ix. **ὅταν, ἐὰν,** etc: as contrações de conjunção e partícula **ἄν** típicos do eventual grego vão alinhar-se normalmente com a conjunção usada em português, mesmo que em forma de locução conjuntiva: *quando quer que*, ou *sempre que*, etc.
 
-x. Se, a tradução em português, pela escolha do verbo, apresentar um pronome oblíquo como complemento do verbo, que não está presente no grego, exceto pelo pronome “se”, não se faz o alinhamento. Ex. "deixá - lo partir “.
+x. Se a tradução em português, pela escolha do verbo, apresentar um pronome oblíquo como complemento do verbo, que não está presente no grego, (exceto pelo pronome “se”), não se inclui o pronome em português,  inexistente no grego, ao alinhamento. Ex. "deixá - lo partir “.
 
 xi. Hífens e sinais de pontuação: todos os sinais de pontuação precisam ter espaço entre as palavras e o sinal para que o alinhamento não inclua automaticamente a pontuação à palavra. Na versão atual do Alpheios, dentro da plataforma Perseids, os pontos já ficam afastados, mas o ponto de interrogação e dois pontos não se separam automaticamente.
 

@@ -50,4 +50,5 @@ xviii. Tmese: alinhar o prevérbio grego junto com o verbo grego e o verbo ou a 
 
 xix. Expressões de artigo com valor pronominal que dependem de partículas para dar significado, alinhar o artigo com a partícula ao à expressão usada na tradução em português Ex.: **οἱ μέν…**  **οἱ δέ…**  ***uns…**  **outros...***. 
 
+xx. Pronomes e correferentes anafóricos: pronomes e determinantes usados como pronomes demonstrativos no grego vão alinhar-se com os pronomes e determinantes em português, mas aqueles que **substitutem o nome em uma das línguas e não na outra não serão alinhados**. Exemplo: ***tua filha*** em português,  e ***τὴν*** em grego não serão alinhadas.
 

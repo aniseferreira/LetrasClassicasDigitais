@@ -13,7 +13,7 @@ iii. As preposições em contração com artigo, em português, são alinhadas c
 
 v. Os verbos gregos traduzidos como verbos pronominais com “se" em português ficariam alinhados com o pronome, em português. Ex. προφασίζετο, *escusava-se*, no caso de mesóclise, ou *se escusava*, no caso de próclise.
 
-vi. Ausência de artigo em grego e presença, na tradução de um artigo indefinido em português:  o indefinido em português é alinhado juntamente com seu substantivo, se o sentido de indefinição (um qualquer) estiver marcado. Ex. **∅ βότρυς = *um cacho de uva***
+vi. Ausência de artigo em grego e presença, na tradução de um artigo indefinido em português:  o indefinido em português é alinhado juntamente com seu substantivo, se o sentido de indefinição (um qualquer) estiver marcado. Ex. **∅ βότρυς = *um cacho de uva***. **E O ARTIGO DEFINIDO EM PORTUGUÊS??? QUANDO NÃO HÁ ARTIGO NO GREGO?** RESOLVER.
 
 vii. Particípio aoristo no grego, traduzido em português pelo tempo composto com verbo ter ou com conjunção subordinada, faz-se o alinhamento juntamente com o verbo auxiliar ou com a conjunção. Ex. **ἐλθών** pode alinhar-se com *'tendo ido'* ou *'quando foi’*. Vale o mesmo princípio para outros particípios em orações circunstanciais ou adjetivas acompanhadas com pronome relativo.
 

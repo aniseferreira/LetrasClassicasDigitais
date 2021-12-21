@@ -25,7 +25,7 @@ x. Se a tradução em português, pela escolha do verbo, apresentar um pronome o
 
 xi. Hífens e alguns sinais de pontuação, como parênteses e travessões: os sinais de pontuação não são alinhados mas os hífens precisam ter espaço das palavras para que o alinhamento não inclua automaticamente o hífen ou sinal de pontuação à palavra. Na versão atual do Alpheios, dentro da plataforma Perseids, os pontos já ficam afastados, mas o ponto de interrogação e dois pontos podem não se separar automaticamente.
 
-xii. Hífens na ligação de pronomes e verbos: quando realizar uma tradução, sempre que possível e desejável, utilizar a forma proclítica do pronome na escolha da tradução em português, para evitar o uso de hífen. Quando a tradução a ser alinhad foi publicada com hífen, é preciso dar espaço para que o pronome não fique unido automaticamente ao verbo.
+xii. Hífens na ligação de pronomes e verbos: quando realizar uma tradução, sempre que possível e desejável, utilizar a forma proclítica do pronome na escolha da tradução em português, para evitar o uso de hífen. Quando a tradução a ser alinhad foi publicada com hífen, é preciso dar espaço para que o pronome não fique unido automaticamente ao verbo. ***(não separar o verbo do pronome em ênclise nas traduções publicadas?)***
 
 xiii.	Verbos como: τυγχάνω e λανθάνω, que acompanham particípios em construções específicas e podem ser traduzidos por locuções adverbiais, alinham-se conforme a flexão empregada na tradução.
 

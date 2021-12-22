@@ -11,7 +11,7 @@ iii. As preposições em contração com artigo, em português, são alinhadas c
 
 **iv. O dativo de posse grego com o verbo ser tem de ser alinhado com o verbo “ter”, quando usado na tradução em português. Alterado para alinhamento frasal**, ex.: ἔστιν αὐτοῖς se traduzudo por *eles têm*; mas se traduzido como *há para eles* o alinhamento pode ser 1 para 1. 
 
-v. Os verbos gregos traduzidos como verbos pronominais com “se" em português ficariam alinhados com o pronome, em português. Ex. προφασίζετο, *escusava-se*, no caso de mesóclise, ou *se escusava*, no caso de próclise.
+v. Os verbos gregos traduzidos como verbos pronominais com “se" em português ficariam alinhados com o pronome, em português. Ex. προφασίζετο, *escusava-se*, no caso de ênclise, ou *se escusava*, no caso de próclise, e *escusar-se-ia*, no caso de mesóclise.
 
 vi. Ausência de artigo em grego e presença, na tradução de um artigo indefinido em português:  o indefinido em português é alinhado juntamente com seu substantivo, se o sentido de indefinição (um qualquer) estiver marcado. Ex. **∅ βότρυς = *um cacho de uva***. **E O ARTIGO DEFINIDO EM PORTUGUÊS??? QUANDO NÃO HÁ ARTIGO NO GREGO?** RESOLVER.
 

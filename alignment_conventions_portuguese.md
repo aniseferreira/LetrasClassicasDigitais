@@ -52,5 +52,5 @@ xix. Expressões de artigo com valor pronominal que dependem de partículas para
 
 xx. Pronomes e correferentes anafóricos: pronomes e determinantes usados como pronomes demonstrativos no grego vão alinhar-se com os pronomes e determinantes em português, mas aqueles que **substitutem o nome em uma das línguas e não na outra não serão alinhados**. Exemplo: ***tua filha*** em português,  e ***τὴν*** em grego não serão alinhadas.
 
-xxi.Pronomes implícitos ou ocultos no grego e no português, já que ambas as línguas têm desinências pessoais no verbo, só o verbo será alinhado. Quando *o pronome pessoal está **oculto em português e presente no grego***, o verbo pessoal flexionado em português será alinhado com o pronome pessoal grego. Ex.:***ἐγὼ λύσω*** alinha-se com ***libertarei***. 
+xxi.Pronomes implícitos ou ocultos no grego e no português, já que ambas as línguas têm desinências pessoais no verbo, só o verbo será alinhado. Quando *o pronome pessoal estiver **oculto em uma das línguas e na outra o verbo apresentar pronome pessoal por ter uma forma ambígua na pessoa***, o verbo será alinhado com o pronome pessoal explícito. Ex.: ***ἐω** alinha-se com  ***eu seja***.
 

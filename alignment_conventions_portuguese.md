@@ -54,3 +54,4 @@ xx. Pronomes e correferentes anafóricos: pronomes e determinantes usados como p
 
 xxi.Pronomes implícitos ou ocultos no grego e no português, já que ambas as línguas têm desinências pessoais no verbo, só o verbo será alinhado. Quando *o pronome pessoal estiver **oculto em uma das línguas e na outra o verbo apresentar pronome pessoal por ter uma forma ambígua na pessoa***, o verbo será alinhado com o pronome pessoal explícito. Ex.: ***ἐω** alinha-se com  ***eu seja***.
 
+xxii. ***Incluir orientação sobre voz passiva*** Alinham-se os verbos independentemente da voz, desde que haja equivalência de sentido, de acordo com o julgamento do anotador

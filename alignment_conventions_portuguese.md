@@ -5,7 +5,7 @@ Obs. As decisões começaram a ser estabelecidas por mim, alunos e colaboradores
 
 i. O alinhamento pode ser realizado com uma quantidade desigual de palavras em quaisquer das duas línguas alinhadas. A ferramenta permite que anotador tome a decisão de quais palavras alinhar.Porém, a **correspondência de 1 para 1** (**1-1**) é preferível à **mais de 1** (**N-N; N-1; 1-N**) exceto nos critérios especificados abaixo e no critério geral de indivisibilidade de sentido formado por mais de uma palavra, seja na língua alvo, seja na língua fonte. Os sinais de pontuação não são alinhados. 
 
-ii. Partículas redundantes ou enfáticas gregas sem tradução em português não são alinhadas com nenhuma palavra em português, nem associada a outra em grego. Ex.: γε, δέ, etc. Caso uma ou mais partículas sejam traduzidas, individualmente ou como locução, essas serão alinhadas aos termos correspondentes. Ex.γέ = ***ao menos**; καὶ γὰρ = ***de fato***
+ii. Partículas redundantes ou enfáticas gregas sem tradução em português não são alinhadas com nenhuma palavra em português, nem associada a outra em grego. Ex.: γε, δέ, etc. Caso uma ou mais partículas sejam traduzidas, individualmente ou como locução, essas serão alinhadas aos termos correspondentes. Ex.γέ = ***ao menos***; καὶ γὰρ = ***de fato***
 
 iii. As preposições em contração com artigo, em português, são alinhadas conjuntamente às preposições e os artigos que não se contraem no grego: ex. εἰς τὴν - > à ; ἐν τῷ - > no; e assim por diante. No ex: *ἐν πόντῳ (= no mar)*, a preposição ἐν é alinhada com “no” mesmo que não haja o artigo no grego. 
 

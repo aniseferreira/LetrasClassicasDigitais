@@ -3,13 +3,13 @@ CRITÉRIOS OU CONVENÇÕES DE ALINHAMENTO EM DISCUSSÃO PARA ALINHAMENTO DO GREG
 
 Obs. As decisões começaram a ser estabelecidas por mim, alunos e colaboradores para o projeto Letras Clássicas Digitais, a partir de 2015, com sua aplicação em sala de aula. Não foram inspiradas em nenhuma publicação sobre traduções paralelas em línguas modernas ou antigas. A partir de 8 de dezembro de 2021,  elas foram cotejadas com as guidelines elaboradas para o alinhamento com inglês e grego por Chiara Palladino e Farnoosh Shamsian. Muitas das decisões são semelhantes e algumas são próprias para a língua portuguesa. 
 
-i. O alinhamento pode ser realizado com uma quantidade desigual de palavras em quaisquer das duas línguas alinhadas. A ferramenta permite que anotador tome a decisão de quais palavras alinhar.Porém, a **correspondência de 1 para 1** é preferível exceto nos critérios especificados abaixo e no critério geral de indivisibilidade de sentido formado por mais de uma palavra, seja na língua alvo, seja na língua fonte. Os sinais de pontuação não são alinhados. 
+i. O alinhamento pode ser realizado com uma quantidade desigual de palavras em quaisquer das duas línguas alinhadas. A ferramenta permite que anotador tome a decisão de quais palavras alinhar.Porém, a **correspondência de 1 para 1** (**1-1**) é preferível à **mais de 1** (**N-N; N-1; 1-N**) exceto nos critérios especificados abaixo e no critério geral de indivisibilidade de sentido formado por mais de uma palavra, seja na língua alvo, seja na língua fonte. Os sinais de pontuação não são alinhados. 
 
-ii. Partículas redundantes ou enfáticas gregas sem tradução em português não são alinhadas com nenhuma palavra em português, nem associada a outra em grego. Ex.: γε, δέ, etc
+ii. Partículas redundantes ou enfáticas gregas sem tradução em português não são alinhadas com nenhuma palavra em português, nem associada a outra em grego. Ex.: γε, δέ, etc. Caso uma ou mais partículas sejam traduzidas, individualmente ou como locução, essas serão alinhadas aos termos correspondentes. Ex.γέ = ***ao menos**; καὶ γὰρ = ***de fato***
 
-iii. As preposições em contração com artigo, em português, são alinhadas conjuntamente às preposições e os artigos que não se contraem no grego: ex. eἰς τὴν - > à ; ἐν τῷ - > no; e assim por diante. No ex: *ἐν πόντῳ (= no mar)*, a preposição ἐν é alinhada com “no” mesmo que não haja o artigo no grego. 
+iii. As preposições em contração com artigo, em português, são alinhadas conjuntamente às preposições e os artigos que não se contraem no grego: ex. εἰς τὴν - > à ; ἐν τῷ - > no; e assim por diante. No ex: *ἐν πόντῳ (= no mar)*, a preposição ἐν é alinhada com “no” mesmo que não haja o artigo no grego. 
 
-**iv. O dativo de posse grego com o verbo ser tem de ser alinhado com o verbo “ter”, quando usado na tradução em português. Alterado para alinhamento frasal**, ex.: ἔστιν αὐτοῖς se traduzudo por *eles têm*; mas se traduzido como *há para eles* o alinhamento pode ser 1 para 1. 
+**iv. O dativo de posse grego com o verbo *ser* tem de ser alinhado com o verbo *ter*, quando usado na tradução em português. Alterado para alinhamento frasal**, ex.: ἔστιν αὐτοῖς se traduzudo por *eles têm*; mas se traduzido como *há para eles* o alinhamento pode ser 1 para 1. 
 
 v. Os verbos gregos traduzidos como verbos pronominais com “se" em português ficariam alinhados com o pronome, em português. Ex. προφασίζετο, *escusava-se*, no caso de ênclise, ou *se escusava*, no caso de próclise, e *escusar-se-ia*, no caso de mesóclise.
 

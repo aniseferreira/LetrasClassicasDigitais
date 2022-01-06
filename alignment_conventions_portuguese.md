@@ -17,7 +17,7 @@ ii. Partículas redundantes ou enfáticas gregas sem tradução em português n�
 
 iii. As preposições em contração com artigo, em português, são alinhadas conjuntamente às preposições e os artigos que não se contraem no grego: ex. εἰς τὴν - > à ; ἐν τῷ - > no; e assim por diante. No ex: *ἐν πόντῳ (= no mar)*, a preposição ἐν é alinhada com “no” mesmo que não haja o artigo no grego. 
 
-iv. As preposições nas traduções em português, que forem exigidas pelos **casos gregos** em palavras que não são acompanhadas de preposições em grego, especialmente do caso genitivo e dativo, alinham-se juntamente com os termos gregos flexionados. Ex.**Ἡρακλεῖ** => para Héracles. Se o substantivo for acompanhado de determinante, a preposição será alinhada ao determinante. Ex. **τῷ Ἡρακλεῖ**· τῷ alinha-se à *'para'* e **Ἡρακλεῖ** a Héracles. 
+iv. As preposições nas traduções em português, que forem exigidas pelos **casos gregos** em palavras que não são acompanhadas de preposições em grego, especialmente do caso genitivo e dativo, alinham-se juntamente com os termos gregos flexionados. Ex.**Ἡρακλεῖ** => para Héracles. Se o substantivo for acompanhado de determinante, a preposição será alinhada ao determinante. Ex. **τῷ Ἡρακλεῖ**· τῷ alinha-se à *'para'* e **Ἡρακλεῖ** a *Héracles*. 
 
 v. Ausência de artigo em grego e presença, na tradução de um artigo indefinido em português:  o indefinido em português é alinhado juntamente com seu substantivo, se o sentido de indefinição (um qualquer) estiver marcado. Ex. **∅ βότρυς = *um cacho de uva***. **O artigo definido presente em português mas ausente no grego não é alinhado com o nome a que se refere.** 
 
@@ -46,7 +46,7 @@ xi. Artigos em **patronímicos**, como ὁ Περικλέους, *o filho de Pé
 
 xii. Quando há **elipses verbais**, com *εἰμί* no grego, ou qualquer verbo elidido mas traduzido em português, o verbo usado em português não será alinhado a nenhum termo. 
 
-**xiii. O verbo *ser* no dativo de posse grego tem de ser alinhado com o verbo *ter*, quando usado na tradução em português** ou com a expressão usada para indicar posse. Alterado para alinhamento frasal**, ex.: _ἔστιν αὐτοῖς_ se traduzido por *eles têm*; mas se traduzido como *'há para eles'* o alinhamento será feito verbo com verbo (1-1) e o pronome alinha-se à preposição com o pronome em português.
+**xiii. O verbo *ser* no dativo de posse grego pode ser traduzido por expressão com o verbo *ter*** ou por outra expressão usada para indicar posse. Neste caso, o alinhamento será frasal (N-N) , ex.: _ἔστιν αὐτοῖς_  alinha-se a *eles têm*; mas se traduzido como *'há para eles'* o alinhamento será feito verbo com verbo (1-1) e o pronome grego alinha-se à preposição com o pronome em português.
 
 xiv. Os verbos gregos traduzidos como **verbos pronominais** com **“se"** em português ficam alinhados com o pronome, em português. Ex. **προφασίζετο**, *escusava-se*, no caso de ênclise; ou *se escusava*, no caso de próclise, e *escusar-se-ia*, no caso de mesóclise.
 

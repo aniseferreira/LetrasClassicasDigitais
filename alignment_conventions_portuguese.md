@@ -19,7 +19,7 @@ iii. As preposições em contração com artigo, em português, são alinhadas c
 
 iv. As preposições nas traduções em português, que forem exigidas pelos **casos gregos** em palavras que não são acompanhadas de preposições em grego, especialmente do caso genitivo e dativo, alinham-se juntamente com os termos gregos flexionados. Ex.**Ἡρακλεῖ** => para Héracles. Se o substantivo for acompanhado de determinante, a preposição será alinhada ao determinante. Ex. **τῷ Ἡρακλεῖ**· τῷ alinha-se à *'para'* e **Ἡρακλεῖ** a Héracles. 
 
-v. Ausência de artigo em grego e presença, na tradução de um artigo indefinido em português:  o indefinido em português é alinhado juntamente com seu substantivo, se o sentido de indefinição (um qualquer) estiver marcado. Ex. **∅ βότρυς = *um cacho de uva***. **O artigo definido presente em português mas ausente no grego não é alinhado com o nome a que se refere. Ex. 
+v. Ausência de artigo em grego e presença, na tradução de um artigo indefinido em português:  o indefinido em português é alinhado juntamente com seu substantivo, se o sentido de indefinição (um qualquer) estiver marcado. Ex. **∅ βότρυς = *um cacho de uva***. **O artigo definido presente em português mas ausente no grego não é alinhado com o nome a que se refere.** 
 
 vi. Quando o artigo em grego declinado é traduzido por uma preposição contrata com artigo em português, alinha-se o artigo grego com . Ex. τῷ - no. E o mesmo quando o **artigo grego declinado e desacompanhado de preposição** é traduzido por preposição e artigo em português.  Ex.: τῷ - com a / com o. (1-N)
 

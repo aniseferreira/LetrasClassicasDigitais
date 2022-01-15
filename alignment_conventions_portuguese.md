@@ -1,9 +1,9 @@
 ### CRITÉRIOS OU CONVENÇÕES DE ALINHAMENTO EM DISCUSSÃO PARA ALINHAMENTO DO GREGO ÀS TRADUÇÕES EM PORTUGUÊS
-(atualizadas até 6 de janeiro de 2021). 
+(atualizadas até 6 de janeiro de 2022). 
 
 ### Introdução
 
-As decisões começaram a ser estabelecidas por mim, alunos e colaboradores para o projeto Letras Clássicas Digitais, a partir de 2015, com sua aplicação em sala de aula. Não foram inspiradas em nenhuma publicação sobre traduções paralelas em línguas modernas ou antigas. A partir de 8 de dezembro de 2021,  elas foram cotejadas com as guidelines elaboradas para o alinhamento com inglês e grego por Chiara Palladino e Farnoosh Shamsian. Muitas das decisões são semelhantes e algumas são próprias para a língua portuguesa. 
+As decisões começaram a ser estabelecidas por mim, alunos e colaboradores para o projeto Letras Clássicas Digitais, a partir de 2015, com sua aplicação em sala de aula. Não foram inspiradas em nenhuma publicação sobre traduções paralelas em línguas modernas ou antigas. Em 2020, tivemos uma primeira versão estabilizada para os trabalhos de 2020 e 2021, com a preocupação maior de verificar mais a leitura do aluno do que chegar a um gold standard. A partir de 8 de dezembro de 2021,  elas foram cotejadas com as guidelines elaboradas para o alinhamento com inglês e grego por Chiara Palladino e Farnoosh Shamsian. Muitas das decisões são semelhantes e algumas são próprias para a língua portuguesa. 
 
 ### Instrução geral
 

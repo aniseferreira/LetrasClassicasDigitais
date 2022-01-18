@@ -36,9 +36,9 @@ x. Artigos substantivando advérbios em grego, ou com expressões preposicionais
 * **τὰ κατὰ τὴν μουσικήν** traduzido por **as regras**,ou **preceitos** ou **ensinamentos** ou **elementos musicais**, alinha-se toda a frase. 
 
 * **Adendo** Obs. Nas guidelines da Palladino e Shamsian, algumas distinções de alinhamento são estabelecidas, em relação ao uso pronominal de artigos e de frases preposicionais, dependendo da situação. São elas (adaptadas ao português): 
-* **‘Οἱ δὲ ἐν τῇ νῆσῳ’** traduzido por:  **‘Os que estão na ilha’**: **‘Οἱ δὲ’** alinha-se a **‘os que’**; **‘ἐν’+‘τῇ’** alinha-se a **‘na’; ‘νῆσῳ’** alinha-se a **‘ilha’.**
-* **‘Οἱ δὲ ἐν τῇ νῆσῳ’** traduzido por **‘os ilhéus’**, o alinhamento é frasal N-N
-* **‘Οἱ δὲ ἐν τῇ νῆσῳ’** traduzido por **‘os habitantes na ilha’**: **‘Οἱ δὲ’ - ø** (fica sem alinhar); **‘ἐν’ + ‘τῇ’** alinha-se a **‘na’**; **‘νήσῳ’** - **‘ilha'**. 
+* **‘Οἱ δὲ ἐν τῇ νήσῳ’** traduzido por:  **‘Os que estão na ilha’**: **‘Οἱ δὲ’** alinha-se a **‘os que’**; **‘ἐν’+‘τῇ’** alinha-se a **‘na’; ‘νήσῳ’** alinha-se a **‘ilha’.**
+* **‘Οἱ δὲ ἐν τῇ νήσῳ’** traduzido por **‘os ilhéus’**, o alinhamento é frasal N-N
+* **‘Οἱ δὲ ἐν τῇ νήσῳ’** traduzido por **‘os habitantes na ilha’**: **‘Οἱ δὲ’ - ø** (fica sem alinhar); **‘ἐν’ + ‘τῇ’** alinha-se a **‘na’**; **‘νήσῳ’** - **‘ilha'**. 
 
 xi. Artigos em **patronímicos**, como ὁ Περικλέους, *o filho de Péricles*, faremos o alinhamento de modo que a expressão inteira seja alinhada (N-N).
 

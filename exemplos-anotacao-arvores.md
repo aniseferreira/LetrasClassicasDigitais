@@ -11,12 +11,12 @@ O manual AGDT do treebank recomenda anotar com etiqueta OBJ não só os infiniti
 
 Por isso, trazemos os dois modos de anotação já registrados: como ADV (modificador opcional, como princípio geral) e como OBJ (complemento obrigatório, como princípio geral) abaixo. Supõe-se que, como ADV, está presente a ideia de finalidade, que seria adicional; como OBJ, está presente a ideia de que o verbo substituído pelo adjetivo não poderia prescindir do complemento. Achamos a diferença muito sutil e depende do sentido da ação verbal implícita.
 
-* **Uso de infinitivo complemento de adjetivo no Ragon**
+* <h3> Uso de infinitivo complemento de adjetivo no Ragon </h3>
 <img src="img/infinitivo-determinacao-adjetivos-ragon.jpg" width="600" height="600">
 
-* **Exemplo como ADV (= capaz para)** 
+* <h3>Exemplo como ADV (= capaz para)</h3>
 <img src="img/adjetivo-dunatos+infinitivo.png" width="840" height="380">
 
-* **Exemplo como OBJ (= merecer ...)** 
+* <h3> Exemplo como OBJ (= merecer ...)</h3> 
 <img src="img/adj+inf+OBJ.png" width="840" height="380">
 

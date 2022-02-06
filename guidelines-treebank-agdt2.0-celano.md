@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <title></title>
-    </head>
-    <body>
+
+
 
 <a id="guidelines">
 <h3 style="text-align: center">GUIDELINES FOR THE ANCIENT GREEK DEPENDENCY TREEBANK 2.0</h3>

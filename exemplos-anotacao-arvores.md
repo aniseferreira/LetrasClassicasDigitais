@@ -20,3 +20,6 @@ Por isso, trazemos os dois modos de anotação já registrados: como ADV (modifi
 * <h3> Exemplo como OBJ (= merecer ...)</h3> 
 <img src="img/adj+inf+OBJ.png" width="840" height="380">
 
+<h2> 2. Verbos de ligação ou Cópula cujo atributo é anotado como PNOM</h2>
+A Smyth Grammar contém uma pequena lista de verbos de ligação, ver: 
+<img src="img/verbos_ligacao.png" width="840" height="600"> 

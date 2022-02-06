@@ -11,3 +11,5 @@ Em parceria com Alpheios e Perseids Project estamos fazendo testes para integra�
 Na coleção [Unesp-Trees](https://perseids-publications.github.io/unesp-trees/) dentro da coleção da Perseids-Publications será possível visualizar as várias anotações em árvore sintática de dependência da coleção dos **Projetos Abertos em Letras Clássicas Digitais**. Uma interface para exibir as árvores juntamente com as traduções em português  alinhadas ao grego está sendo preparada (2021). 
 
 **As convenções de alinhamento de tradução grego-português atualizadas** estão em https://aniseferreira.github.io/LetrasClassicasDigitais/alignment_conventions_portuguese.md e também junto ao editor de alinhamento Ugarit, em https://github.com/UgaritAlignment/Alignment-Gold-Standards
+
+**As convenções de anotação em árvores de dependência sintática** são usadas as do *Ancient Greek Dependency Treebank 2.0* disponíveis em https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md e copiadas neste repositório. 

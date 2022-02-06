@@ -20,6 +20,15 @@ Por isso, trazemos os dois modos de anotação já registrados: como ADV (modifi
 * <h3> Exemplo como OBJ (= merecer ...)</h3> 
 <img src="img/adj+inf+OBJ.png" width="840" height="380">
 
+
 <h2> 2. Verbos de ligação ou Cópula cujo atributo é anotado como PNOM</h2>
+
 A Smyth Grammar contém uma pequena lista de verbos de ligação, ver: 
-<img src="img/verbos_ligacao.png" width="840" height="600"> 
+<img src="img/verbos_ligacao.png" width="800" height="600"> 
+
+**O texto didático da Gildersleeve Grammar traz exemplos e a lista pode ser expandida**, ver: 
+[Copula](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0074:section=5)
+
+>[*] *64. Verbos copulativos. 
+Outros verbos copulativos são: “Ἀκούειν”, “Διατελεῖν”, "Poderia", “Καθίστασθαι” = “γἱγνεσθαι” (muitas vezes em oradores) “Κυρεῖν”, acaso, "Λαγχάνειν", “Μένειν”, permanecem, "Πέλειν, πέλεσθαι", "Τελέθειν", “Τυγχάνειν”, acontecer, “Ὑπάρχειν”, ser (uma base), "φαίνομαι", aparecer, “Φῦναι”, comp. fuisse, etc.
+Nos melhores dias da língua, verbos como “καθίστασθαι, τυγχάνειν, ὑπάρχειν” e “φῦναι” não são meros fluxos para o predicado. O uso frequente de “φῦναι” e “τυγχάνειν” surge da divisão grega de toda manifestação nas duas esferas de “φύσις” e “τύχη”. Em “ὑπάρχειν”, que acabou por se descolorir, a ideia de base, de algo a que recorrer, de recurso ou resíduo, não foi totalmente apagada no bom período.*

@@ -32,3 +32,9 @@ A Smyth Grammar contém uma pequena lista de verbos de ligação, ver:
 >[*] *64. Verbos copulativos. 
 Outros verbos copulativos são: “Ἀκούειν”, “Διατελεῖν”, "Poderia", “Καθίστασθαι” = “γἱγνεσθαι” (muitas vezes em oradores) “Κυρεῖν”, acaso, "Λαγχάνειν", “Μένειν”, permanecem, "Πέλειν, πέλεσθαι", "Τελέθειν", “Τυγχάνειν”, acontecer, “Ὑπάρχειν”, ser (uma base), "φαίνομαι", aparecer, “Φῦναι”, comp. fuisse, etc.
 >>Nos melhores dias da língua, verbos como “καθίστασθαι, τυγχάνειν, ὑπάρχειν” e “φῦναι” não são meros fluxos para o predicado. O uso frequente de “φῦναι” e “τυγχάνειν” surge da divisão grega de toda manifestação nas duas esferas de “φύσις” e “τύχη”. Em “ὑπάρχειν”, que acabou por se descolorir, a ideia de base, de algo a que recorrer, de recurso ou resíduo, não foi totalmente apagada no bom período.*
+
+<h2> 3. Acusativo de relação dependendo de adjetivo como ADV </h2>
+
+O acusativo de relação ou de respeito expressa a forma em que se dá a ação, e dependerá do adjetivo ou verbo como um complemento adicional e etiquetado ADV e será anotado como ADV. Pode também estar mediado por uma preposição, i.e., ser "adposicional". 
+
+<img src="img/acusativo_relacao.jpg" width="600" height="500">

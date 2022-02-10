@@ -59,7 +59,7 @@ Abaixo:  _O que se coroou percorreu (os tempos) dos deuses_ (Plutarco, _Licurgo_
 
 O particípio recebe a etiqueta ATR (oração adjetiva) e o pronome indefinido recebe a etiqueta correspondente à função sintática:
 
-Abaixo: _Alguém que seja seja saiba isso._ (Sófocles, _Ájax_, 416)
+Abaixo: _Alguém que seja sensato saiba isso._ (Sófocles, _Ájax_, 416)
 
 <img src="img/pronome-indefinido+participio+nominativo.png" width="600" height="240">
 

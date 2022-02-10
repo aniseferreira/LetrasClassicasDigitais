@@ -43,9 +43,23 @@ O acusativo de relação ou de respeito expressa a forma em que se dá a ação,
 
 <h2>4. Artigo e pronome seguido de particípio no mesmo caso</h2>
 
-Em sentenças com **particípio articulado** sem substantivo, o artigo recebe a etiqueta ATR, e o particípio recebe a etiqueta correspondente à função. 
+* <h3> Em sentenças com particípio articulado sem substantivo:</h3>
 
-<img src="img/artigoATR_particípioSBJ_nom.png" width="600" height="300" align="center">
+o artigo recebe a etiqueta ATR, e o particípio recebe a etiqueta correspondente à função (v. §366 Ragon):
 
-Em sentenças com **pronome indefinido com particípio**, o particípio recebe a etiqueta ATR (oração adjetiva) e o pronome indefinido recebe a etiqueta correspondente à função sintática 
+<img src="img/participio-como-substantivo_ou_aquele_que.png" width="650" height="300">
+
+Abaixo:  _O que se coroou percorreu (os tempos) dos deuses_ (Plutarco, _Licurgo_, 26.3)
+
+<img src="img/artigoATR_particípioSBJ_nom.png" width="650" height="250"> 
+
+
+
+* <h3> Em sentenças com pronome indefinido com particípio</h3>
+
+O particípio recebe a etiqueta ATR (oração adjetiva) e o pronome indefinido recebe a etiqueta correspondente à função sintática:
+
+Abaixo: _Alguém que seja seja saiba isso._ 
+
+<img src="img/pronome-indefinido+participio+nominativo.png" width="600" height="240">
 

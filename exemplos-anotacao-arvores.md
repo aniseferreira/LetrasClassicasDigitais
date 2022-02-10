@@ -38,3 +38,14 @@ Outros verbos copulativos são: “ἀκούειν”, “διατελεῖν”
 O acusativo de relação ou de respeito expressa a forma em que se dá a ação, e dependerá do adjetivo ou verbo como um complemento adicional e etiquetado ADV e será anotado como ADV. Pode também estar mediado por uma preposição, i.e., ser "adposicional". 
 
 <img src="img/acusativo_relacao.jpg" width="600" height="500">
+
+
+
+<h2>4. Artigo e pronome seguido de particípio no mesmo caso</h2>
+
+Em sentenças com **particípio articulado** sem substantivo, o artigo recebe a etiqueta ATR, e o particípio recebe a etiqueta correspondente à função. 
+
+<img src="img/artigoATR_particípioSBJ_nom.png" width="600" height="300" align="center">
+
+Em sentenças com **pronome indefinido com particípio**, o particípio recebe a etiqueta ATR (oração adjetiva) e o pronome indefinido recebe a etiqueta correspondente à função sintática 
+

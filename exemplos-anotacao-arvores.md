@@ -35,12 +35,14 @@ Outros verbos copulativos são: “ἀκούειν”, “διατελεῖν”
 
 **Observação:** Quando um verbo de ligação predicativo depende de outro verbo de ligação teremos dois PNOMs, como na figura abaixo.
 
+
 <img src="img/PNOM+PNOM.png" width="800" height="400" align="center"> 
+
 
 * <h3> Alguns verbos podem ou não ser usados como verbos de ligação e, às vezes, se usam na forma da voz ativa quando pedem predicativo PNOM. </h3>
 Parece ser o caso do verbo τυγχάνω  e  δοκέω que teriam complemento verbal obrigatório e, por isso, εἰμί recebe etiqueta OBJ. A diferença pode ser sutil, mas as anotações de εἰμί como OBJ e seu complemento PNOM são mais numerosas do que haver dois PNOMs.
 
-
+<img src="img/τυγχανω+2PNOMs.png">
 
 * <h3> Outros verbos de ligação pedem predicativo em dois PNOMs só quando em sentido passivo  </h3>
 Com o verbo **νομίζω** por exemplo, em  _ϳulgando  julgado ser_, ou acreditando ser καλὸν εἶναι νομιζόμενόν - "ser" será OBJ. Já quando se refere a costume e uso, poderá pedir PNOM.

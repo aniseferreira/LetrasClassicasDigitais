@@ -1,5 +1,5 @@
 
-# Exemplos de anotações em árvore sintática com explicações em português que causam dúvidas nos anotadores #
+# Exemplos de anotações em árvore sintática que causam dúvidas nos anotadores com explicações em português #
 
 
 <h2> 1. Infinitivo como complemento de adjetivos</h2>

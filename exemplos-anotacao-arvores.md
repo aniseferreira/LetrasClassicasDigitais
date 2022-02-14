@@ -48,17 +48,21 @@ Parece ser o caso do verbo τυγχάνω  e  δοκέω que teriam complemento 
 
 **εἶναι  é OBJ**
 
-<img src="img/τυγχανω+ OBJ+PNOM.png" width="600" height="400"> 
+<img src="img/τυγχανω+ OBJ+PNOM.png" width="600" height="300"> 
 
 **εἶναι é OBJ**
 
-<img src="img/dokew+OBJ+PNOM.png" width="600" height="400"> 
+<img src="img/dokew+OBJ+PNOM.png"> 
+
+**εἶναι é PNOM**
+
+<img src="img/dokew+2PNOMs.png">
 
 
 * <h3> Outros verbos de ligação pedem predicativo em dois PNOMs só quando em sentido passivo  </h3>
 Com o verbo **νομίζω** por exemplo, em  _ϳulgando  julgado ser_, ou acreditando ser καλὸν εἶναι νομιζόμενόν - "ser" será OBJ. Já quando se refere a costume e uso, poderá pedir PNOM.
 
-<img src="img/OBJ+PNOM.png"> 
+<img src="img/nomizetai-OBJ+PNOM.png">
 <img src="img/OBJ+PNOM2.png">
 
 

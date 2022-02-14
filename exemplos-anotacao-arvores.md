@@ -58,6 +58,9 @@ Parece ser o caso do verbo τυγχάνω  e  δοκέω que teriam complemento 
 * <h3> Outros verbos de ligação pedem predicativo em dois PNOMs só quando em sentido passivo  </h3>
 Com o verbo **νομίζω** por exemplo, em  _ϳulgando  julgado ser_, ou acreditando ser καλὸν εἶναι νομιζόμενόν - "ser" será OBJ. Já quando se refere a costume e uso, poderá pedir PNOM.
 
+<img src="img/OBJ+PNOM.png"> 
+<img src="img/OBJ+PNOM2.png">
+
 
 <h2> 3. Acusativo de relação dependendo de adjetivo como ADV </h2>
 

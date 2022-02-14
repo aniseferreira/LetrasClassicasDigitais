@@ -43,6 +43,7 @@ Outros verbos copulativos são: “ἀκούειν”, “διατελεῖν”
 Parece ser o caso do verbo τυγχάνω  e  δοκέω que teriam complemento verbal obrigatório e, por isso, εἰμί recebe etiqueta OBJ. A diferença pode ser sutil, mas as anotações de εἰμί como OBJ e seu complemento PNOM são mais numerosas do que haver dois PNOMs.
 
 <img src="img/τυγχανω+2PNOMs.png">
+<img src="img/τυγχανω+ OBJ+PNOM.png">
 
 * <h3> Outros verbos de ligação pedem predicativo em dois PNOMs só quando em sentido passivo  </h3>
 Com o verbo **νομίζω** por exemplo, em  _ϳulgando  julgado ser_, ou acreditando ser καλὸν εἶναι νομιζόμενόν - "ser" será OBJ. Já quando se refere a costume e uso, poderá pedir PNOM.

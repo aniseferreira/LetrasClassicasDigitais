@@ -31,7 +31,20 @@ A Smyth Grammar contém uma pequena lista de verbos de ligação, ver:
 
 >[*] *64. Verbos copulativos. 
 Outros verbos copulativos são: “ἀκούειν”, “διατελεῖν”, "δύνασθαι", “καθίστασθαι” = “γἱγνεσθαι” (muitas vezes em oradores) “κυρεῖν”, calhar, "λαγχάνειν", “μένειν”, permanecer, "πέλειν, πέλεσθαι", "τελέθειν", “τυγχάνειν”, acontecer, “ὑπάρχειν”, ser, "φαίνομαι", aparecer, “Φῦναι”, comp. fuisse, etc.
->>Nos melhores dias da língua, verbos como “καθίστασθαι, τυγχάνειν, ὑπάρχειν” e “φῦναι” não são meros fluxos para o predicado. O uso frequente de “φῦναι” e “τυγχάνειν” surge da divisão grega de toda manifestação nas duas esferas de “φύσις” e “τύχη”. Em “ὑπάρχειν”, que acabou por se descolorir, a ideia de base, de algo a que recorrer, de recurso ou resíduo, não foi totalmente apagada no bom período.*
+>>Nos melhores dias da língua, verbos como “καθίστασθαι, τυγχάνειν, ὑπάρχειν” e “φῦναι” não são meros fluxos para o predicado. O uso frequente de “φῦναι” e “τυγχάνειν” surge da divisão grega de toda manifestação nas duas esferas de “φύσις” e “τύχη”. Em “ὑπάρχειν”, que acabou por se descolorir, a ideia de base, de algo a que recorrer, de recurso ou resíduo, não foi totalmente apagada no bom período.
+
+**Observação:** Quando um verbo de ligação predicativo depende de outro verbo de ligação teremos dois PNOMs, como na figura abaixo.
+
+<img src="img/PNOM+PNOM.png" width="800" height="400" align="center"> 
+
+* <h3> Alguns verbos podem ou não ser usados como verbos de ligação e, às vezes, se usam na forma da voz ativa quando pedem predicativo PNOM. </h3>
+Parece ser o caso do verbo τυγχάνω  e  δοκέω que teriam complemento verbal obrigatório e, por isso, εἰμί recebe etiqueta OBJ. A diferença pode ser sutil, mas as anotações de εἰμί como OBJ e seu complemento PNOM são mais numerosas do que haver dois PNOMs.
+
+
+
+* <h3> Outros verbos de ligação pedem predicativo em dois PNOMs só quando em sentido passivo  </h3>
+Com o verbo **νομίζω** por exemplo, em  _ϳulgando  julgado ser_, ou acreditando ser καλὸν εἶναι νομιζόμενόν - "ser" será OBJ. Já quando se refere a costume e uso, poderá pedir PNOM.
+
 
 <h2> 3. Acusativo de relação dependendo de adjetivo como ADV </h2>
 

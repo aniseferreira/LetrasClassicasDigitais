@@ -1,6 +1,9 @@
 
-# Exemplos de anotações em árvore sintática que causam dúvidas nos anotadores com explicações em português #
+# Dicas de anotações em árvore sintática que causam dúvidas nos anotadores com explicações em português #
 
+## Motivação
+
+Em geral,  anotadores iniciantes do AGDT da área de letras clássicas não estão familiarizados com a anotação em treebank de dependência e percebem conflitos com a intuição sintática que trazem da língua materna. Além disso, estão lidando com textos diversos de gêneros, estilos e épocas diferentes e podem encontrar estruturas sintáticas que podem gerar dúvidas em virtude do sentido empregado ou imaginado pelo autor. Assim, a anotação obriga o anotador a buscar mais informações sobre o texto específico a ser anotado. As convenções no AGDT 1.0 e 2.0 não dão conta de toda a complexidade da língua grega que pode surgir nos textos a serem anotados. Por esse motivo, estamos reunindo alguns casos específicos de anotação sobre os quais apareceram dúvidas durante as atividades realizadas em sala de aula e que são encontrados em publicações anteriores, cujas decisões são sustentadas por comentários, gramáticas e dicionários da língua grega e como as convenções das *guidelines* tratam esses casos. 
 
 <h2> 1. Infinitivo como complemento de adjetivos</h2>
 

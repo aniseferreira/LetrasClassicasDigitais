@@ -21,6 +21,7 @@
 - [Uso de infinitivo complemento de adjetivo no Ragon](#-uso-de-infinitivo-complemento-de-adjetivo-no-ragon-)
 - [Exemplo como ADV](#exemplo-como-adv--capaz-para)
 - [Exemplo como OBJ](#-exemplo-como-obj--merecer-)
+- [Exemplo como ATR](#-exemplo-como-atr-determinação)
 
 [2. Verbos de ligação ou Cópula cujo atributo é anotado como PNOM](#-2-verbos-de-liga%C3%A7%C3%A3o-ou-c%C3%B3pula-cujo-atributo-%C3%A9-anotado-como-pnom)
 
@@ -69,7 +70,7 @@ O sufixo __PA só se encontra nas anotações antigas feitas com AGDT 1, em ora�
 
 <h2> 1. Infinitivo como complemento de adjetivos</h2>
 
-O manual AGDT do treebank recomenda anotar com etiqueta OBJ não só os infinitivos como complementos verbos (orações completivas) como também quando *complementam adjetivos* embora haja alguns exemplos como ADV. Isso porque na gramática do Smyth esse infinitivo teria um uso análogo ao infinitivo que modifica certos verbos que indicam finalidade, adequação, habilidade, facilidade, etc cf. [Smyth Grammar § 2001-2002](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0007%3Asmythp%3D2002). Assim, temos: 
+O manual AGDT do treebank recomenda anotar com etiqueta OBJ não só os infinitivos como complementos verbos (orações completivas) como também quando *complementam adjetivos* embora haja alguns exemplos como ADV (192) e ATR (32). Isso porque na gramática do Smyth esse infinitivo teria um uso análogo ao infinitivo que modifica certos verbos que indicam finalidade, adequação, habilidade, facilidade, etc cf. [Smyth Grammar § 2001-2002](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0007%3Asmythp%3D2002). Assim, temos: 
 
 > *2001 O infinitivo serve para definir o significado de adjetivos, advérbios e substantivos, especialmente aqueles que denotam habilidade, aptidão, capacidade, etc. (e seus opostos), e geralmente aqueles análogos em significado aos verbos que tomam o infinitivo (2000). Aqui o significado de dativo (propósito, destino) é muitas vezes aparente. Cp. 1969.*a. Some of these adjectives take the infinitive by analogy to the related verbs, as πρόθυμος zealous (προθυμοῦμαι), ἐπιστήμων knowing how (ἐπίσταμαι)"*. 
 >> *1969. O infinitivo era originalmente um substantivo verbal no caso dativo (em parte possivelmente também no locativo). O uso para expressar propósito (2008) é uma sobrevivência do significado primitivo, do qual todos os outros usos amplamente divergentes foram desenvolvidos de maneira nem sempre clara para nós. Mas o significado **para** (to e for) visto em μανθάνειν ἥκομεν  'viemos aprender' (para aprender) também pode ser discernido em δύναμαι ἰδεῖν, 'Tenho poder para ver', então, 'posso ver'. Cp. 2000, 2006 a. Já em Homero, quando o significado do dativo foi parcialmente obscurecido, o infinitivo foi empregado como nominativo (como sujeito) e acusativo (como objeto). Depois de Homero, o infinitivo passou a ser usado com o artigo neutro, a ideia substantiva ganhando assim definição. O artigo deve ser usado quando o infinitivo está como objeto no genitivo ou dativo, e quando depende de preposições*
@@ -85,7 +86,9 @@ Por isso, trazemos os dois modos de anotação já registrados: como ADV (modifi
 * <h3> Exemplo como OBJ (= merecer ...)</h3> 
 <img src="img/adj+inf+OBJ.png" width="840" height="380">
 
-
+* <h3> Exemplo como ATR (determinação)</h3>
+<img src="img/PRED_PA.png">
+  
 <h2> 2. Verbos de ligação ou Cópula cujo atributo é anotado como PNOM</h2>
 
 A Smyth Grammar contém uma pequena lista de verbos de ligação, ver: 

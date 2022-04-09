@@ -8,7 +8,7 @@
 
 [II.Principais diferenças entre AGDT 1.0 e AGDT 2.0  ](#iiprincipais-diferenças-entre-agdt-10-e-agdt-20)
 
-[- APOS](#apos)
+[- APOS, _AP](#apos-ap)
 
 [III. Situações gramaticais específicas](#iii-situações-gramaticais-específicas)
 
@@ -33,10 +33,10 @@ Pontuemos inicialmente as principais diferenças entre as diretrizes do AGDT 1.0
 
 ### II.Principais diferenças entre AGDT 1.0 e AGDT 2.0 
 
-#### APOS 
+#### APOS, AP
 
 * <h4>No AGDT 1 </h4>
-No AGDT 1, é a vírgula separando os elementos colocados em aposição que recebe a etiqueta APOS, e cada elemento recebe a etiqueta da função mais o sufixo __AP
+No AGDT 1, é a vírgula separando os elementos colocados em aposição que recebe a etiqueta APOS, e cada elemento recebe a etiqueta da função mais o sufixo __AP. O sufixo _AP é usado somente no AGDT 1,  para a aposição. Há também a variante _AP_CO, quando existem apositivos coordenados.
 
 <img src="img/APOS_virgula_SBJ_AP.png">
 

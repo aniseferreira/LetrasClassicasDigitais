@@ -74,13 +74,13 @@ ATV e AtvV são etiquetas do AGDT 1. São atributos ou predicativos verbais, cha
 No AGDT 2, tanto ATV como AtvV são anotados como ADV e dependem sempre do verbo. Compare os exemplos:
 
 
-- <img src="img/ATV-monos.png">
-- <img src="img/monos-AtvV.png">
-- <img src="img/OBJ+ATV.png">
-- <img src="img/eu_ADV_poieis_participio_AtvV.png">
+- <img src="img/ATV-monos.png" width="75%" height="70%">
+- <img src="img/monos-AtvV.png" width="75%" height="70%">
+- <img src="img/OBJ+ATV.png" width="90%" height="90%">
+- <img src="img/eu_ADV_poieis_participio_AtvV.png" width="90%" height="90%">
           
 
-### III. Situações gramaticais específicas 
+## III. Situações gramaticais específicas 
 
 <h2> 1. Infinitivo como complemento de adjetivos</h2>
 

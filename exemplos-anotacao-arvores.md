@@ -12,7 +12,9 @@
 
 [- PA](#__pa)
 
-[- AuxG/ExD](#auxg-exd)
+[- AuxG, ExD](#auxg-exd)
+
+[- ATV, AtvV](#atv-atvv)
 
 [III. Situações gramaticais específicas](#iii-situações-gramaticais-específicas)
 

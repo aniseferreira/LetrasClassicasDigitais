@@ -4,7 +4,11 @@
 ## Faculdade de Ciências e Letras da UNESP de Araraquara e CNPq (proc.n.307431/2019-3 e proc. 432895/2018-3) 
 ### Sumário
 
-[Motivação](#motivação)
+[I.Motivação](#imotivação)
+
+[II.Principais diferenças entre AGDT 1.0 e AGDT 2.0  ](#iiprincipais-diferenças-entre-agdt-10-e-agdt-20)
+
+[III. Situações gramaticais específicas](#iii-situações-gramaticais-específicas)
 
 [1. Infinitivo como complemento de adjetivos](#-1-infinitivo-como-complemento-de-adjetivos)
 
@@ -16,9 +20,20 @@
 
 [3. Acusativo de relação dependendo de adjetivo como ADV](#-3-acusativo-de-rela%C3%A7%C3%A3o-dependendo-de-adjetivo-como-adv-)
 
-### Motivação
+### I.Motivação
 
 Em geral,  anotadores iniciantes do AGDT da área de letras clássicas não estão familiarizados com a anotação em treebank de dependência e percebem conflitos com a intuição sintática que trazem da língua materna. Além disso, estão lidando com textos diversos de gêneros, estilos e épocas diferentes e podem encontrar estruturas sintáticas que podem gerar dúvidas em virtude do sentido empregado ou imaginado pelo autor. Assim, a anotação obriga o anotador a buscar mais informações sobre o texto específico a ser anotado. As convenções no AGDT 1.0 e 2.0 não dão conta de toda a complexidade da língua grega que pode surgir nos textos a serem anotados. Por esse motivo, estamos reunindo alguns casos específicos de anotação sobre os quais apareceram dúvidas durante as atividades realizadas em sala de aula e que são encontrados em publicações anteriores, cujas decisões são sustentadas por comentários, gramáticas e dicionários da língua grega e como as convenções das *guidelines* tratam esses casos. 
+
+Pontuemos inicialmente as principais diferenças entre as diretrizes do AGDT 1.0 e 2.0. Elas residem na aplicação das etiquetas APOS, PA, ATV e AtvV. 
+
+
+### II.Principais diferenças entre AGDT 1.0 e AGDT 2.0 
+
+#### APOS 
+
+* <h4>No AGDT 1.0 </h4>
+
+### III. Situações gramaticais específicas 
 
 <h2> 1. Infinitivo como complemento de adjetivos</h2>
 

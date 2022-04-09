@@ -1,11 +1,22 @@
 
 # Dicas de anotações em árvore sintática que causam dúvidas nos anotadores com explicações em português #
 
-## Motivação
+## Faculdade de Ciências e Letras da UNESP de Araraquara e CNPq (proc.n.307431/2019-3 e proc. 432895/2018-3) 
+### Sumário
+
+[Motivação](#motivação)
+
+[1. Infinitivo como complemento de adjetivos](#-1-infinitivo-como-complemento-de-adjetivos)
+
+- [Uso de infinitivo complemento de adjetivo no Ragon](#-uso-de-infinitivo-complemento-de-adjetivo-no-ragon-)
+- [Exemplo como ADV](#exemplo-como-adv--capaz-para)
+- [Exemplo como OBJ](#-exemplo-como-obj--merecer-)
+
+### Motivação
 
 Em geral,  anotadores iniciantes do AGDT da área de letras clássicas não estão familiarizados com a anotação em treebank de dependência e percebem conflitos com a intuição sintática que trazem da língua materna. Além disso, estão lidando com textos diversos de gêneros, estilos e épocas diferentes e podem encontrar estruturas sintáticas que podem gerar dúvidas em virtude do sentido empregado ou imaginado pelo autor. Assim, a anotação obriga o anotador a buscar mais informações sobre o texto específico a ser anotado. As convenções no AGDT 1.0 e 2.0 não dão conta de toda a complexidade da língua grega que pode surgir nos textos a serem anotados. Por esse motivo, estamos reunindo alguns casos específicos de anotação sobre os quais apareceram dúvidas durante as atividades realizadas em sala de aula e que são encontrados em publicações anteriores, cujas decisões são sustentadas por comentários, gramáticas e dicionários da língua grega e como as convenções das *guidelines* tratam esses casos. 
 
-<h2> 1. Infinitivo como complemento de adjetivos</h2>
+<h2> 1. Infinitivo como complemento de adjetivos</h2>(#infinitivo)
 
 O manual AGDT do treebank recomenda anotar com etiqueta OBJ não só os infinitivos como complementos verbos (orações completivas) como também quando *complementam adjetivos* embora haja alguns exemplos como ADV. Isso porque na gramática do Smyth esse infinitivo teria um uso análogo ao infinitivo que modifica certos verbos que indicam finalidade, adequação, habilidade, facilidade, etc cf. [Smyth Grammar § 2001-2002](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0007%3Asmythp%3D2002). Assim, temos: 
 

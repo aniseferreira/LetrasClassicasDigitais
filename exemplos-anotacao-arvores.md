@@ -40,6 +40,11 @@ No AGDT 1.0, é a vírgula entre os elementos apositivos que recebe a etiqueta A
 
 <img src="img/APOS_virgula_SBJ_AP.png">
 
+* <h4>No AGDT 2.0</h4>
+
+<img src="img/AGDT2 - OBJ + APOS_CO.png">
+A mesma sentença, Tuc. 1.122.4 pode ser vista na convenção do AGDT 1.0 em https://weblicht.sfs.uni-tuebingen.de/Tundra/PerseusGreek/5138.
+
 ### III. Situações gramaticais específicas 
 
 <h2> 1. Infinitivo como complemento de adjetivos</h2>

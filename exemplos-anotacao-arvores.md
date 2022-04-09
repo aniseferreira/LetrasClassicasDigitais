@@ -28,22 +28,29 @@ Em geral,  anotadores iniciantes do AGDT da área de letras clássicas não est�
 
 As ilustrações das ávores são obtidas do Perseus Greek na base Tündra Weblicht- https://weblicht.sfs.uni-tuebingen.de/Tundra/PerseusGreek/. Outras ilustrações são extraídas de gramáticas ou dicionários indicados na figura.
 
-Pontuemos inicialmente as principais diferenças entre as diretrizes do AGDT 1.0 e 2.0. Elas residem na aplicação das etiquetas APOS, PA, ATV e AtvV. 
+Pontuemos inicialmente as principais diferenças entre as diretrizes do AGDT 1.0 e 2.0. Elas residem na aplicação das etiquetas APOS, PA,ExD, ATV e AtvV. 
 
 
 ### II.Principais diferenças entre AGDT 1.0 e AGDT 2.0 
 
 #### APOS 
 
-* <h4>No AGDT 1.0 </h4>
-No AGDT 1.0, é a vírgula entre os elementos apositivos que recebe a etiqueta APOS, e cada elemento recebe a etiqueta da função mais o sufixo __AP
+* <h4>No AGDT 1 </h4>
+No AGDT 1, é a vírgula separando os elementos colocados em aposição que recebe a etiqueta APOS, e cada elemento recebe a etiqueta da função mais o sufixo __AP
 
 <img src="img/APOS_virgula_SBJ_AP.png">
 
-* <h4>No AGDT 2.0</h4>
+* <h4>No AGDT 2 </h4>
 
 <img src="img/AGDT2 - OBJ + APOS_CO.png">
 A mesma sentença, Tuc. 1.122.4 pode ser vista na convenção do AGDT 1.0 em https://weblicht.sfs.uni-tuebingen.de/Tundra/PerseusGreek/5138.
+
+#### __PA 
+* <h4>Só no AGDT 1 </h4>
+
+O sufixo __PA só se encontra nas anotações antigas feitas com AGDT 1, em orações parentéticas, separadas por um sinal gráfico, ou de travessão, ou de parênteses. Nem consta como opção das etiquetas atuais do AGDT 1 e 2.
+
+<img src="img/PRED_PA.png">
 
 ### III. Situações gramaticais específicas 
 

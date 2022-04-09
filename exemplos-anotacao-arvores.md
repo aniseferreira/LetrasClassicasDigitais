@@ -71,8 +71,14 @@ O sufixo __PA só se encontra nas anotações antigas feitas com AGDT 1, em ora�
 
 ATV e AtvV são etiquetas do AGDT 1. São atributos ou predicativos verbais, chamados na gramática normativa em português de predicado verbo-nominal. Concordam com seu sujeito. Distinguem-se do PNOM por serem atributos de um agente mediados por um verbo que não é de ligação. A diferença entre ATV e AtvV está no fato de que o atributo ATV se liga ao agente que é modificado pelo atributo e está presente no período, ficando dependente desse. AtvV é a etiqueta usada para o atributo quando o elemento modificado pelo atributo está oculto e fica dependendo do verbo. 
 
-No AGDT 2, tanto ATV como AtvV são anotados como ADV e dependem sempre do verbo. 
+No AGDT 2, tanto ATV como AtvV são anotados como ADV e dependem sempre do verbo. Compare os exemplos:
 
+
+- <img src="img/ATV-monos.png">
+- <img src="img/monos-AtvV.png">
+- <img src="img/OBJ+ATV.png">
+- <img src="img/eu_ADV_poieis_participio_AtvV.png">
+          
 
 ### III. Situações gramaticais específicas 
 

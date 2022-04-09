@@ -10,6 +10,10 @@
 
 [- APOS, _AP](#apos-ap)
 
+[- PA](#__pa)
+
+[- AuxG/ExD](#auxg-exd)
+
 [III. Situações gramaticais específicas](#iii-situações-gramaticais-específicas)
 
 [1. Infinitivo como complemento de adjetivos](#-1-infinitivo-como-complemento-de-adjetivos)
@@ -28,7 +32,7 @@ Em geral,  anotadores iniciantes do AGDT da área de letras clássicas não est�
 
 As ilustrações das ávores são obtidas do Perseus Greek na base Tündra Weblicht- https://weblicht.sfs.uni-tuebingen.de/Tundra/PerseusGreek/. Outras ilustrações são extraídas de gramáticas ou dicionários indicados na figura.
 
-Pontuemos inicialmente as principais diferenças entre as diretrizes do AGDT 1.0 e 2.0. Elas residem na aplicação das etiquetas APOS, PA,ExD, ATV e AtvV. 
+Pontuemos inicialmente as principais diferenças entre as diretrizes do AGDT 1.0 e 2.0. Elas residem na aplicação das etiquetas APOS, PA,ExD,AuxG,ATV e AtvV. 
 
 
 ### II.Principais diferenças entre AGDT 1.0 e AGDT 2.0 
@@ -48,9 +52,18 @@ A mesma sentença, Tuc. 1.122.4 pode ser vista na convenção do AGDT 1.0 em htt
 #### __PA 
 * <h4>Só no AGDT 1 </h4>
 
-O sufixo __PA só se encontra nas anotações antigas feitas com AGDT 1, em orações parentéticas, separadas por um sinal gráfico, ou de travessão, ou de parênteses. Nem consta como opção das etiquetas atuais do AGDT 1 e 2.
+O sufixo __PA só se encontra nas anotações antigas feitas com AGDT 1, em orações parentéticas, separadas por um sinal gráfico, ou de travessão, ou de parênteses (AuxG). Nem consta como opção das etiquetas atuais do AGDT 1 e 2. A anotação de orações parentéticas é feita no AGDT 2 com ExD dependendo do PRED. 
 
 <img src="img/PRED_PA.png">
+
+### AuxG, ExD
+
+- No AGDT 1, AuxG é a etiqueta das marcas gráficas que separam as orações parentéticas. 
+- No AGDT 2, AuxG pode ser usada ainda para aspas em discurso direto.
+
+- No ADGT 1, ExD é a etiqueta aplicada ao vocativo e elementos fora da sintaxe do período, como exclamações. 
+- No AGDT 2, ExD é usado para vocativo, exclamações, etc, e também para constituintes sintáticos que não pertencem sintaticamente ao período, como as orações parentéticas.  
+
 
 ### III. Situações gramaticais específicas 
 

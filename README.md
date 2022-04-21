@@ -9,7 +9,10 @@ Em parceria com Christopher W. Blackwell e seus colegas do departament de cláss
 
 Em parceria com Alpheios e Perseids Project estamos fazendo testes para integração dos textos antigos anotados em treebank pela plataforma Perseids, com os recursos do Alpheios em https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html. A coleção será mantida na página [https://perseids-publications.github.io/unesp-trees/](https://perseids-publications.github.io/unesp-trees/)
 
-Na coleção [Unesp-Trees](https://perseids-publications.github.io/unesp-trees/) dentro da coleção da Perseids-Publications será possível visualizar as várias anotações em árvore sintática de dependência da coleção dos **Projetos Abertos em Letras Clássicas Digitais**. Uma interface para exibir as árvores juntamente com as traduções em português  alinhadas ao grego está sendo preparada (2021). 
+Na coleção [Unesp-Trees](https://perseids-publications.github.io/unesp-trees/) dentro da coleção da Perseids-Publications é possível visualizar as várias anotações em árvore sintática de dependência selecionadas da coleção dos **Projetos Abertos em Letras Clássicas Digitais**. Uma interface nova para exibir as árvores juntamente com as traduções em português alinhadas ao grego começou a ser testada pelo parceiro do projeto Perseids em 2021. 
+
+Arquivos de alguns textos anotados em XML relativos a obras específicas podem ser baixados da plataforma ZENODO:
+https://doi.org/10.5281/zenodo.6407039 e https://doi.org/10.5281/zenodo.6407039. 
 
 **As convenções de alinhamento de tradução grego-português atualizadas** estão em https://aniseferreira.github.io/LetrasClassicasDigitais/alignment_conventions_portuguese.md e também junto ao editor de alinhamento Ugarit, em https://github.com/UgaritAlignment/Alignment-Gold-Standards; trabalho aprimorado em parceria com Tariq Yousef, Chiara Palladino, e Farnoosh Samsian. 
 

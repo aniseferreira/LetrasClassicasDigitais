@@ -15,3 +15,5 @@ Na coleção [Unesp-Trees](https://perseids-publications.github.io/unesp-trees/)
 **As convenções de anotação em árvores de dependência sintática** são usadas as do *Ancient Greek Dependency Treebank 2.0* disponíveis em https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md e copiadas neste repositório. 
 
 **Dicas e diretrizes para anotações em árvore de dependência sintática** em casos ambíguos e não explicitados nas diretrizes do AGDT 1 e 2, disponível em https://github.com/aniseferreira/LetrasClassicasDigitais/blob/master/exemplos-anotacao-arvores.md. 
+
+**O subprojeto de Índice de Nomes Próprios Gregos em Português** é uma iniciativa para pesquisa usando planilhas e Data-Studio de nomes próprios em grego, português, francês e inglês, caracterização e URI da fonte, para oferecer uma forma canônica, uma vez que em virtude de diferentes grafias usadas nas traduções e, muitas vezes, lidas em língua estrangeira as formas podem não ser reconhecidas em português.Trata-se de um trabalho associado ao DDGP. Disponível em https://sites.google.com/unesp.br/grego-na-quarentena/apresent/1-data-studio-nomes

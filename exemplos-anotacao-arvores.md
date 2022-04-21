@@ -3,12 +3,13 @@
 
 ## Faculdade de Ciências e Letras da UNESP de Araraquara 
 **Parte dos Projetos Abertos em Letras Clássicas Digitais, 
-<br>Coordª. Anise D'Orange Ferreira, CNPq proc.n.307431/2019-3 e proc. 432895/2018-3** 
+<br>Coordª. Anise D'Orange Ferreira, CNPq proc.n.307431/2019-3 e proc. 432895/2018-3** <br>
+(_Atualizado até abril de 2022_)
 ### Sumário
 
 [I.Motivação](#imotivação)
 
-[II.Principais diferenças entre AGDT 1.0 e AGDT 2.0  ](#iiprincipais-diferenças-entre-agdt-10-e-agdt-20)
+[II.Principais diferenças entre AGDT 1 e AGDT 2  ](#iiprincipais-diferenças-entre-agdt-1-e-agdt-2)
 
 [- APOS, _AP](#apos-ap)
 
@@ -42,7 +43,7 @@ As ilustrações das ávores são obtidas do Perseus Greek na base Tündra Webli
 Pontuemos inicialmente as principais diferenças entre as diretrizes do AGDT 1.0 e 2.0. Elas residem na aplicação das etiquetas APOS, PA,ExD,AuxG,ATV e AtvV. 
 
 
-### II.Principais diferenças entre AGDT 1.0 e AGDT 2.0 
+### II.Principais diferenças entre AGDT 1 e AGDT 2 
 
 #### APOS, AP
 
@@ -147,8 +148,8 @@ Parece ser o caso do verbo τυγχάνω  e  δοκέω que teriam complemento 
 <img src="img/dokew+2PNOMs.png">
 
 
-* <h3> Outros verbos de ligação pedem predicativo em dois PNOMs só quando em sentido passivo  </h3>
-Com o verbo **νομίζω** por exemplo, em  _ϳulgando  julgado ser_, ou acreditando ser καλὸν εἶναι νομιζόμενόν - "ser" será OBJ. Já quando se refere a costume e uso, poderá pedir PNOM.
+* <h3> Outros verbos de ligação pedem predicativo em dois PNOMs quando em sentido passivo  </h3>
+Com o verbo **νομίζω** por exemplo, entendido como   _ϳulgando_ ou  _julgado ser_, ou _acreditando ser_ καλὸν εἶναι νομιζόμενόν - "ser" pode ser anotado como OBJ. Já quando se refere a costume e uso, poderá pedir PNOM.
 
 <img src="img/nomizetai-OBJ+PNOM.png">
 <img src="img/OBJ+PNOM2.png">

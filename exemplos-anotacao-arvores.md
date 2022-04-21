@@ -40,7 +40,7 @@ Em geral,  anotadores iniciantes do AGDT da área de letras clássicas não est�
 
 As ilustrações das ávores são obtidas do Perseus Greek na base Tündra Weblicht- https://weblicht.sfs.uni-tuebingen.de/Tundra/PerseusGreek/. Outras ilustrações são extraídas de gramáticas ou dicionários indicados na figura.
 
-Pontuemos inicialmente as principais diferenças entre as diretrizes do AGDT 1.0 e 2.0. Elas residem na aplicação das etiquetas APOS, PA,ExD,AuxG,ATV e AtvV. 
+Pontuemos inicialmente as principais diferenças entre as diretrizes do AGDT 1 e 2. Elas residem na aplicação das etiquetas APOS, PA,ExD,AuxG,ATV e AtvV. 
 
 
 ### II.Principais diferenças entre AGDT 1 e AGDT 2 

@@ -3,7 +3,7 @@
 
 ## Faculdade de Ciências e Letras da UNESP de Araraquara 
 **Parte dos Projetos Abertos em Letras Clássicas Digitais, 
-<br>Coord. Anise D'Orange Ferreira, CNPq proc.n.307431/2019-3 e proc. 432895/2018-3** 
+<br>Coordª. Anise D'Orange Ferreira, CNPq proc.n.307431/2019-3 e proc. 432895/2018-3** 
 ### Sumário
 
 [I.Motivação](#imotivação)

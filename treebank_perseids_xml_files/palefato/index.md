@@ -3,5 +3,6 @@
 ### Colocar resumo do projeto
 >__Note__ Inserir neste subdiretório todos os arquivos XML das produções do projeto
  
-### $\textcolor{purple}{\text{Inserir arquivos aqui}}$
+### $\textcolor{purple}{\textsf{Inserir arquivos aqui}}$
+
 

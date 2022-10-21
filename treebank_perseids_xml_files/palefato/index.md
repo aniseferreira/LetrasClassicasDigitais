@@ -1,4 +1,4 @@
-## EDIÇÃO DITIAL Sobre o Inacreditável (Περὶ Ἀπίστον) DE PALÉFATO E HERÁCLITO, COM TRADUÇÃO ALINHADA E ANOTAÇÃO EM TREEBANK 
+## EDIÇÃO DIGITAL Sobre o Inacreditável (Περὶ Ἀπίστον) DE PALÉFATO E HERÁCLITO, COM TRADUÇÃO ALINHADA E ANOTAÇÃO EM TREEBANK 
 ### Anderson Alves Moris
 ### Colocar resumo do projeto
 >__Note__ Inserir neste subdiretório todos os arquivos XML das produções do projeto

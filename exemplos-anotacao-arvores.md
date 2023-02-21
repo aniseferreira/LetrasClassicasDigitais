@@ -194,12 +194,12 @@ _Adjetivos verbais em -τέος expressam a necessidade. Eles admitem duas const
 _1. A construção pessoal (-τέος, -τέα, -τέον), passiva no sentido, e enfatizando o assunto.
 _2. A construção impessoal (mais comum) (-τέον, -τέα^, 1052), praticamente ativa no sentido, e enfatizando a ação._
 
-_Ambas as construções são utilizadas com a cópula εἰμί, que pode ser omitida. O agente - a pessoa sobre a qual repousa a necessidade - é expresso, se for o caso, pelo dativo (nunca pelo ὑπό e pelo genitivo)._
+_Ambas as construções são utilizadas com a cópula **εἰμί**, que pode ser omitida. O agente - a pessoa sobre a qual repousa a necessidade - é expresso, se for o caso, pelo dativo (nunca pelo ὑπό e pelo genitivo)._
 
 (...) _§ 2152a a. Como a construção impessoal é virtualmente ativa, e portanto equivalente **a δεῖ com o acusativo e infinitivo** (ativo ou médio), o agente às vezes fica no acusativo, como se dependesse de δεῖ. A cópula é (talvez) sempre omitida quando o agente é expresso pelo acusativo. Assim, τὸν βουλόμενον εὐδαίμονα εἶναι σωφροσύνην καὶ ἀσκητέον (= διωκτέον διώκειν καὶ ἀσκεῖν) é necessário que o homem que deseja ser feliz persiga e pratique a temperança P. G. 507c._
 
-* Na árvore sintática, o verbo εἰμί ganha a etiqueta (rara) de **AuxV** em dependência do adjetivo verbal. Nesses casos, geralmente a oração tem um núcleo verbal expresso como um PRED explícito. 
+* Na árvore sintática, o verbo εἰμί ganha a etiqueta (rara) de **AuxV** em dependência do adjetivo verbal. Nesses casos, geralmente a oração tem um núcleo verbal expresso como um PRED explícito. Ver exemplo em https://weblicht.sfs.uni-tuebingen.de/Tundra/AncientGreekProse/10311
 
-* Porém, há orações em que o verbo principal não está expresso e o próprio adjetivo verbal representa a ação principal da oração pelo implícito do valor deôntico: deve (-se) X . Exemplo em: https://weblicht.sfs.uni-tuebingen.de/Tundra/AncientGreekProse/22800. Neste caso, o adjetivo verbal assume o lugar do PRED. 
+* Porém, há orações em que o verbo principal não está expresso e o próprio adjetivo verbal representa a ação principal da oração pelo implícito do valor deôntico: deve (-se) X . Exemplo em: https://weblicht.sfs.uni-tuebingen.de/Tundra/AncientGreekProse/22800. Neste caso, o adjetivo verbal assume o lugar do PRED. Mesmo quando há o verbo "ser" presente, cf. https://weblicht.sfs.uni-tuebingen.de/Tundra/AncientGreekProse/13582
 
 - Todas as traduções são feitas automaticamente com a versão gratuita do tradutor - www.DeepL.com/Translator e corrigidas e revistas manualmente. 

@@ -34,6 +34,8 @@
 
 [4. Artigo e pronome seguido de particípio no mesmo caso](#4-artigo-e-pronome-seguido-de-partic%C3%ADpio-no-mesmo-caso)
 
+5. Adjetivo verbal -τέος, - τέα, - τέον com sentido impessoal ou pessoal 
+
 ### I.Motivação
 
 Em geral,  anotadores iniciantes do AGDT da área de letras clássicas não estão familiarizados com a anotação em treebank de dependência e percebem conflitos com a intuição sintática que trazem da língua materna. Além disso, estão lidando com textos diversos de gêneros, estilos e épocas diferentes e podem encontrar estruturas sintáticas que podem gerar dúvidas em virtude do sentido empregado ou imaginado pelo autor. Assim, a anotação obriga o anotador a buscar mais informações sobre o texto específico a ser anotado. As convenções no AGDT 1 e 2 não dão conta de toda a complexidade da língua grega que pode surgir nos textos a serem anotados. Por esse motivo, estamos reunindo alguns casos específicos de anotação sobre os quais apareceram dúvidas durante as atividades realizadas em sala de aula e que são encontrados em publicações anteriores, cujas decisões são sustentadas por comentários, gramáticas e dicionários da língua grega e como as convenções das *guidelines* tratam esses casos. 

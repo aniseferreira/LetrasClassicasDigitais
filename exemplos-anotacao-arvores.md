@@ -24,9 +24,9 @@
 [1. Infinitivo como complemento de adjetivos](#-1-infinitivo-como-complemento-de-adjetivos)
 
 - [Uso de infinitivo complemento de adjetivo no Ragon](#-uso-de-infinitivo-complemento-de-adjetivo-no-ragon-)
-- [Exemplo como ADV](#exemplo-como-adv--capaz-para)
+<!--- [Exemplo como ADV](#exemplo-como-adv--capaz-para)
 - [Exemplo como OBJ](#-exemplo-como-obj--merecer-)
-- [Exemplo como ATR](#-exemplo-como-atr-determinação)
+- [Exemplo como ATR](#-exemplo-como-atr-determinação)-->
 
 [2. Verbos de ligação ou Cópula cujo atributo é anotado como PNOM](#-2-verbos-de-liga%C3%A7%C3%A3o-ou-c%C3%B3pula-cujo-atributo-%C3%A9-anotado-como-pnom)
 

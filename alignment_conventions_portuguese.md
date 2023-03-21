@@ -50,7 +50,9 @@ xii. Quando há **elipses verbais**, com *εἰμί* no grego, ou qualquer verbo
 
 xiv. Os verbos gregos traduzidos como **verbos pronominais** com **“se"** em português ficam alinhados com o pronome, em português. Ex. **προφασίζετο**, *escusava-se*, no caso de ênclise; ou *se escusava*, no caso de próclise, e *escusar-se-ia*, no caso de mesóclise.
 
-xv. **Verbos em orações subordinadas e conjunções em português**. Particípio aoristo no grego, traduzido em português pelo tempo composto com verbo ter ou com conjunção subordinativa, faz-se o alinhamento juntamente com o verbo auxiliar ou com a conjunção. Ex. **ἐλθών** pode alinhar-se com *'tendo ido'* ou *'quando foi’*. Vale o mesmo princípio para outros particípios em orações circunstanciais ou adjetivas acompanhadas com pronome relativo, ou orações completivas com conjunção integrante em português, alinhando-se a conjunção à oração subordinada. Ex. **ὀΐομαι χολωσέμεν** -> penso que irei enraivecer, *ὀΐομαι* alinha-se a *penso* e *χολωσέμεν* alinha-se a *que irei enraivecer*. 
+xv. **Verbos em orações subordinadas e conjunções em português**. Particípio aoristo no grego, traduzido em português pelo tempo composto com verbo ter ou com conjunção subordinativa, faz-se o alinhamento juntamente com o verbo auxiliar ou com a conjunção. Ex. **ἐλθών** pode alinhar-se com *'tendo ido'* ou *'quando foi’*. Quando a tradução da oração participial é transformada em oração coordenada, a conjunção não é alinhada. 
+
+`Vale o mesmo princípio para outros particípios em orações circunstanciais ou adjetivas acompanhadas com pronome relativo, e` **orações completivas com conjunção integrante em português, alinhando-se a conjunção à oração subordinada**. Ex. **ὀΐομαι χολωσέμεν** -> `penso que irei enraivecer`, ``*ὀΐομαι* alinha-se a *penso*`` e ``*χολωσέμεν* alinha-se a *que irei enraivecer*.``
 
 xvi. Partícula **ἄν** vai ser alinhada junto com o verbo grego e, o verbo, no tempo correspondente em português, exceto em casos em que significar **ἐὰν** (neste caso, alinha-se com a conjunção condicional *“se"* em português)
 

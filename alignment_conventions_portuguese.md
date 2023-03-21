@@ -52,7 +52,7 @@ xiv. Os verbos gregos traduzidos como **verbos pronominais** com **“se"** em p
 
 xv. **Verbos em orações subordinadas e conjunções em português**. Particípio aoristo no grego, traduzido em português pelo tempo composto com verbo ter ou com conjunção subordinativa, faz-se o alinhamento juntamente com o verbo auxiliar ou com a conjunção. Ex. **ἐλθών** pode alinhar-se com *'tendo ido'* ou *'quando foi’*. Quando a tradução da oração participial é transformada em oração coordenada, a conjunção não é alinhada. 
 
-`Vale o mesmo princípio para outros particípios em orações circunstanciais ou adjetivas acompanhadas com pronome relativo, e` **orações completivas com conjunção integrante em português, alinhando-se a conjunção à oração subordinada**. Ex. **ὀΐομαι χολωσέμεν** -> `penso que irei enraivecer`, ``*ὀΐομαι* alinha-se a *penso*`` e ``*χολωσέμεν* alinha-se a *que irei enraivecer*.``
+`Vale o mesmo princípio para outros particípios em orações circunstanciais ou adjetivas acompanhadas com pronome relativo, e` **orações completivas com conjunção integrante em português, alinhando-se a conjunção à oração subordinada**. Ex. **ὀΐομαι χολωσέμεν** -> `penso que irei enraivecer`, ``*ὀΐομαι* alinha-se a *penso*`` e ``*χολωσέμεν* alinha-se a *que irei enraivecer*. Ex. ``
 
 xvi. Partícula **ἄν** vai ser alinhada junto com o verbo grego e, o verbo, no tempo correspondente em português, exceto em casos em que significar **ἐὰν** (neste caso, alinha-se com a conjunção condicional *“se"* em português)
 

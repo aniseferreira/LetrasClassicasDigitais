@@ -1,5 +1,5 @@
-### CRITÉRIOS OU CONVENÇÕES DE ALINHAMENTO EM DISCUSSÃO PARA ALINHAMENTO DO GREGO ÀS TRADUÇÕES EM PORTUGUÊS
-(atualizadas até 6 de janeiro de 2022). 
+### CRITÉRIOS OU CONVENÇÕES DE ALINHAMENTO GREGO-PORTUGUÊS
+(atualizadas até 27 de junho de 2022). 
 
 ### Introdução
 

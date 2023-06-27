@@ -14,7 +14,7 @@ Na coleção [Unesp-Trees](https://perseids-publications.github.io/unesp-trees/)
 Arquivos de alguns textos anotados em XML relativos a obras específicas podem ser baixados da plataforma ZENODO:
 https://doi.org/10.5281/zenodo.6407039 e https://doi.org/10.5281/zenodo.6407039. 
 
-**As convenções de alinhamento de tradução grego-português atualizadas** estão em https://aniseferreira.github.io/LetrasClassicasDigitais/alignment_conventions_portuguese.md e também junto ao editor de alinhamento Ugarit, em https://github.com/UgaritAlignment/Alignment-Gold-Standards; trabalho aprimorado em parceria com Tariq Yousef, Chiara Palladino, e Farnoosh Samsian. 
+**As convenções de alinhamento de tradução grego-português atualizadas** estão em https://github.com/aniseferreira/LetrasClassicasDigitais/blob/master/alignment_conventions_portuguese.md e também junto ao editor de alinhamento Ugarit, em https://github.com/UgaritAlignment/Alignment-Gold-Standards; trabalho aprimorado em parceria com Tariq Yousef, Chiara Palladino, e Farnoosh Samsian. 
 
 **As convenções de anotação em árvores de dependência sintática** são usadas as do *Ancient Greek Dependency Treebank 2.0* disponíveis em https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md e copiadas neste repositório. 
 

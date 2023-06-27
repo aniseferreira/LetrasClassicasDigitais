@@ -1,5 +1,5 @@
 ### CRITÉRIOS OU CONVENÇÕES DE ALINHAMENTO GREGO-PORTUGUÊS
-(atualizadas até 27 de junho de 2023). 
+(atualizadas até março de 2023). 
 
 ### Introdução
 

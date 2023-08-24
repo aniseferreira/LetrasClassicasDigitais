@@ -69,7 +69,7 @@ xxi.Verbos como: τυγχάνω e λανθάνω, que acompanham particípios em
 
 xxii. **Tmese**: alinhar o prevérbio grego junto com o verbo grego e o verbo ou a forma perifrástica do verbo usada na tradução em português. Εx ...*εἰ τὸ μάταν **ἀπὸ** φροντίδος ἄχθος χρὴ **βαλεῖν*** - > *se é preciso **banir** da mente a fútil aflição: **ἀπὸ+βαλεῖν** alinha-se com **banir***. 
 
-xxiii. Expressões de artigo com valor pronominal que dependem de partículas para dar significado, alinhar o artigo com a partícula ao à expressão usada na tradução em português Ex.: **οἱ μέν…**  **οἱ δέ…**  ***uns…**  **outros...***. 
+xxiii. Expressões de artigo com valor pronominal que dependem de partículas para dar significado, alinhar o artigo com a partícula à expressão usada na tradução em português Ex.: **οἱ μέν…**  **οἱ δέ…**  ***uns…**  **outros...***. 
 
 xxiv. Pronomes e correferentes anafóricos: pronomes e determinantes usados como pronomes demonstrativos no grego vão alinhar-se com os pronomes e determinantes em português, mas aqueles que **substitutem o nome em uma das línguas e não na outra não serão alinhados**. Exemplo: ***tua filha*** em português,  e ***τὴν*** em grego não serão alinhadas.
 
@@ -77,7 +77,7 @@ xxv.Pronomes implícitos ou ocultos no grego e no português, já que ambas as l
 
 xxvi. ***Sobre alteração de vozes, tempos, modos e pessoas verbais*** Alinham-se os verbos independentemente da voz,tempo, modo e pessoa, desde que haja equivalência de sentido, de acordo com o julgamento do anotador.
 
-xxvii. **O emprego do pronome *você* em lugar do *tu*,** para a segunda pessoa, cuja concordância se faz com o verbo na 3ª pessoa, em lugar da 2ª pessoa em português. Neste caso, o verbo na terceira pessoa em português, se alinhado sem a presença do pronome pessoal, tornará a pessoa verbal ambígua. Por isso, sugere-se que o pronome pessoal em português *você(s)* seja alinhado junto com o verbo, se o pronome pessoal não estiver explícito em grego. Se no grego houver o pronome pessoal de 2ª pessoa, o pronome *você(s)* em português será alinhado com o pronome de 2ª pessoa no grego. 
+xxvii. **O emprego do pronome *você* em lugar do *tu*,** para a segunda pessoa, cuja concordância se faz com o verbo na 3ª pessoa, em lugar da 2ª pessoa em português do Brasil. Neste caso, o verbo na terceira pessoa em português, se alinhado sem a presença do pronome pessoal, tornará a pessoa verbal ambígua. Por isso, sugere-se que o pronome pessoal em português *você(s)* seja alinhado junto com o verbo, se o pronome pessoal não estiver explícito em grego. Se no grego houver o pronome pessoal de 2ª pessoa, o pronome *você(s)* em português será alinhado com o pronome de 2ª pessoa no grego. 
 
 xxviii. **Verbos compostos com preposição (prevérbios)**, por exemplo, περι-πλέω) podem ser alinhados com os termos em português equivalentes ao significado em correspondência 1-N. Por exemplo: em **_περιέπλει τὸν Ἄθων** περιέπλει pode alinhar-se a **"navega ao redor de".**  e **Ἄθων** alinha-se com **Atos**, ou ***περιέπλει*** alinha-se com **navega ao redor** e **τὸν Ἄθων** alinha-se com **do Atos**, uma vez que o artigo aparece em contração com a preposição. 
 
